@@ -1,0 +1,936 @@
+chapter,dialogue,speaker,receiver
+1,"On your feet, Murdock! The judge wants to see you.",Guard,Ross Murdock
+1,"You have a bad record, young man.",Judge Ord Rawle,Ross Murdock
+1,"Yes, sir,",Ross Murdock,Judge Ord Rawle
+1,A very bad record for the few years you have had to make it.,Judge Ord Rawle,Ross Murdock
+1,"By rights, you should be turned over to the new Rehabilitation Service....",Judge Ord Rawle,Ross Murdock
+1,"Instead, I have been authorized to offer you a choice, Murdock. One which I shall state—and on record—I do not in the least approve.",Judge Ord Rawle,Ross Murdock
+1,"There is a government project in need of volunteers. It seems that you have tested out as possible material for this assignment. If you sign for it, the law will consider the time spent on it as part of your sentence. Thus you may aid the country which you have heretofore disgraced——",Judge Ord Rawle,Ross Murdock
+1,"And if I refuse, I go to this rehabilitation. Is that right, sir?",Ross Murdock,Judge Ord Rawle
+1,I certainly consider you a fit candidate for rehabilitation. Your record—,Judge Ord Rawle,Ross Murdock
+1,"I choose to volunteer for the project, sir.",Ross Murdock,Judge Ord Rawle
+1,"Here then is your volunteer, Major.",Judge Ord Rawle,Major John Kelgarries
+1,"Thank you, your honor. We will be on our way at once. This weather is not very promising.",Major John Kelgarries,Judge Ord Rawle
+1,"On your way, Murdock!",Major John Kelgarries,Ross Murdock
+1,Come on!,Major John Kelgarries,Ross Murdock
+1,Sit down—over there!,Major John Kelgarries,Ross Murdock
+1,"All right,",Major John Kelgarries,Ross Murdock
+1,Climb into this! We haven't all night.,Major John Kelgarries,Ross Murdock
+1,"We'd better scramble, Kelgarries, or we may be grounded for the duration!",Pilot,Major John Kelgarries
+1,Now hear this....,Major John Kelgarries,Ross Murdock
+1,... to identify ...,Major John Kelgarries,Ross Murdock
+2,What—?,Ross Murdock,
+2,That's stupid!,Ross Murdock,
+2,Hardy! Hardy!,Major John Kelgarries,Hardy
+2,"Hardy, man!",Major John Kelgarries,Hardy
+2,"It's all right, Hardy. You're back—safe. This is the base, Hardy.",Major John Kelgarries,Hardy
+2,Back—safe—,Hardy,Major John Kelgarries
+2,"Back, safe,",Major John Kelgarries,Hardy
+2,Dark—dark all around again—,Hardy,Major John Kelgarries
+2,"Just a power failure, man. Everything's all right now. We'll get you into bed.",Major John Kelgarries,Hardy
+2,Safe—?,Hardy,Major John Kelgarries
+2,You bet you are!,Major John Kelgarries,Hardy
+2,"Murdock, get down to the end room. Call Dr. Farrell!",Major John Kelgarries,Ross Murdock
+2,"Yes, sir!",Ross Murdock,Major John Kelgarries
+2,Murdock?,Ashe,Ross Murdock
+2,I am Ashe.,Ashe,Ross Murdock
+2,This is a table and that is a chair.,Ashe,Ross Murdock
+2,All right—so you're Ashe!,Ross Murdock,Ashe
+2,And what is that supposed to mean?,Ross Murdock,Ashe
+2,For the time being we have been partnered——,Ashe,Ross Murdock
+2,Partnered for what?,Ross Murdock,Ashe
+2,We work in pairs here. The machine sorts us ...,Ashe,Ross Murdock
+2,Mess call soon.,Ashe,Ross Murdock
+2,"What is this place, anyway?",Ross Murdock,Ashe
+2,Operation Retrograde.,Ashe,Ross Murdock
+2,"Okay, but what do they do here? Listen, I just saw a fellow who'd been banged up as if he'd been in a concrete mixer, creeping along this hall. What sort of work do they do here? And what do we have to do?",Ross Murdock,Ashe
+2,"Hardy got under your skin, eh? Well, we have our percentage of failures. They are as few as it's humanly possible to make, and they give us every advantage that can be worked out for us——",Ashe,Ross Murdock
+2,Failures at what?,Ross Murdock,Ashe
+2,Operation Retrograde.,Ashe,Ross Murdock
+2,"That's mess call. And I'm hungry, even if you're not.",Ashe,Ross Murdock
+2,"Not many in tonight,",Ashe,Ross Murdock
+2,It's been a busy week.,Ashe,Ross Murdock
+2,Gordon!,Jansen,Ashe
+2,When did you get back? And where is Sanford?,Jansen,Ashe
+2,Another loss?,Hodaki,Ashe
+2,Just reassignment. Sandy's holding down Outpost Gog and doing well.,Ashe,Hodaki
+2,He'll end up with a million or two if he doesn't watch out. He takes to trade as if he were born with a beaker in his fist.,Ashe,Hodaki
+2,Just reassignment. Sandy's holding down Outpost Gog and doing well.,Ashe,Jansen
+2,He'll end up with a million or two if he doesn't watch out. He takes to trade as if he were born with a beaker in his fist.,Ashe,Jansen
+2,"Your new partner, Ashe?",Hodaki,Ashe
+2,Temporary assignment. This is Murdock.,Ashe,Hodaki
+2,Temporary assignment. This is Murdock.,Ashe,Feng
+2,Temporary assignment. This is Murdock.,Ashe,Jansen
+2,Temporary assignment. This is Murdock.,Ashe,Van Wyke
+2,"Hodaki, Feng,",Ashe,Ross Murdock
+2,"Jansen, Van Wyke.",Ashe,Ross Murdock
+2,Ashe!,Kurt,Ashe
+2,"Well, Kurt?",Ashe,Kurt
+2,Did you hear about Hardy?,Kurt,Ashe
+2,Naturally.,Ashe,Kurt
+2,He's smashed up ... kaput....,Kurt,Ashe
+2,Tortured....,Kurt,Ashe
+2,"You aren't on Hardy's run, are you?",Ashe,Kurt
+2,"Of course, I'm not! You know the run I am in training for. But that is not saying that such can not happen as well on my run, or yours, or yours!",Kurt,Ashe
+2,"Of course, I'm not! You know the run I am in training for. But that is not saying that such can not happen as well on my run, or yours, or yours!",Kurt,Feng
+2,"Of course, I'm not! You know the run I am in training for. But that is not saying that such can not happen as well on my run, or yours, or yours!",Kurt,Jansen
+2,"Of course, I'm not! You know the run I am in training for. But that is not saying that such can not happen as well on my run, or yours, or yours!",Kurt,Van Wyke
+2,"You can fall out of bed and break your neck, too, if your number comes up that way,",Jansen,Kurt
+2,Go cry on Millaird's shoulder if it hurts you that much. You were told the score at your briefing. You know why you were picked....,Jansen,Kurt
+2,"Then you are going to keep on saying 'Yes, sir,' 'No, sir,' to every order here——?",Kurt,Jansen
+2,"Why this foolishness, Kurt? You well know how and why we are picked for runs. Hardy had the deck stacked against him through no fault of the project. That has happened before; it will happen again——",Hodaki,Kurt
+2,"Which is what I have been saying! Do you wish it to happen to you? Pretty games those tribesmen on your run play with their prisoners, do they not?",Kurt,Hodaki
+2,"Oh, shut up!",Jansen,Kurt
+2,"If you have any complaints, go make them to Millaird. And, little man",Jansen,Kurt
+2,"wait until you make that first run of yours before you sound off so loudly. No one is sent out without every ounce of preparation he can take. But we can't set up luck in advance, and Hardy was unlucky. That's that. We got him back, and that was lucky for him. He'd be the first to tell you so.",Jansen,Kurt
+2,I'm for a game—Ashe? Hodaki?,Jansen,Ashe
+2,I'm for a game—Ashe? Hodaki?,Jansen,Hodaki
+2,"Always so energetic,",Ashe,Jansen
+2,"Always these three try to beat each other, and so far all the contests are draws. But we hope ... yes, we have hopes....",Feng,Ross Murdock
+2,Territory?,Ashe,Jansen
+2,Territory?,Ashe,Hodaki
+2,Inland plains!,Jansen,Ashe
+2,Inland plains!,Hodaki,Ashe
+2,"Trying to be smart tonight, boys?",Ashe,Jansen
+2,"All right, plains it is.",Ashe,Jansen
+2,"Trying to be smart tonight, boys?",Ashe,Hodaki
+2,"All right, plains it is.",Ashe,Hodaki
+2,Red!,Jansen,Hodaki
+2,Blue!,Hodaki,Ashe
+2,Yellow!,Ashe,Jansen
+2,Red!,Jansen,Ashe
+2,Blue!,Hodaki,Jansen
+2,Yellow!,Ashe,Hodaki
+2,Red—caravan!,Jansen,Ashe
+2,Red—caravan!,Jansen,Hodaki
+2,Blue—raiders!,Hodaki,Jansen
+2,Blue—raiders!,Hodaki,Ashe
+2,Yellow—unknown factor.,Ashe,Hodaki
+2,Yellow—unknown factor.,Ashe,Jansen
+2,Is the unknown factor a natural phenomenon?,Hodaki,Ashe
+2,Is the unknown factor a natural phenomenon?,Hodaki,Jansen
+2,No—tribe on the march.,Jansen,Hodaki
+2,Ah!,Hodaki,Jansen
+2,"Camped at a spring,",Jansen,Ashe
+2,but with plenty of sentries out.,Jansen,Ashe
+2,"And they'll have to stay there for all of me. We could keep this up till doomsday, and nobody would crack.",Jansen,Ashe
+2,"Camped at a spring,",Jansen,Hodaki
+2,but with plenty of sentries out.,Jansen,Hodaki
+2,"And they'll have to stay there for all of me. We could keep this up till doomsday, and nobody would crack.",Jansen,Hodaki
+2,No,Hodaki,Jansen
+2,someday one of you will make a little mistake and then——,Hodaki,Jansen
+2,And then whatever bully boys you're running will clobber us?,Jansen,Hodaki
+2,"That'll be the day! Anyway, truce for now.",Jansen,Hodaki
+2,Granted!,Hodaki,Jansen
+2,"Any time you want a return engagement it'll be fine with me,",Ashe,Jansen
+2,"Any time you want a return engagement it'll be fine with me,",Ashe,Hodaki
+2,"Put that off for a month or so, Gordon. We push into time tomorrow. Take care of yourselves, you two. I don't want to have to break in another set of players when I come back.",Jansen,Hodaki
+2,"Put that off for a month or so, Gordon. We push into time tomorrow. Take care of yourselves, you two. I don't want to have to break in another set of players when I come back.",Jansen,Ashe
+2,See you tonight.,Kurt,Ross Murdock
+3,What's the pitch?,Ross Murdock,Kurt
+3,You are ready?,Kurt,Ross Murdock
+3,Did you think that I wouldn't be?,Ross Murdock,Kurt
+3,No.,Kurt,Ross Murdock
+3,"I would not be here otherwise, Murdock. You are plenty ... have plenty on the ball. You see, I have heard things about you. Like me, you were tricked into this game. Tell me, is it not true that you saw Hardy tonight.",Kurt,Ross Murdock
+3,"You hear a lot, don't you?",Ross Murdock,Kurt
+3,"I hear, I see, I learn more than these big mouths, like the major with all his do's and don'ts. That I can tell you! You saw Hardy. Do you want to be a Hardy?",Kurt,Ross Murdock
+3,Is there any danger of that?,Ross Murdock,Kurt
+3,Danger!,Kurt,Ross Murdock
+3,"Danger—you have not yet known the meaning of danger, little man. Not until now. I ask you again, do you want to end like Hardy? They have not yet looped you in with all their big talk. That is why I came here tonight. If you know what is good for you, Murdock, you will make a break before they tape you——",Kurt,Ross Murdock
+3,Tape me?,Ross Murdock,Kurt
+3,"Oh, yes. They have many tricks here. They are big brains, eggheads, all of them with their favorite gadgets. They put you through a machine to get you registered on a tape. Then, my boy, you cannot get outside the base without ringing all the alarms! Neat, eh? So if you want to make a break, you must try it before they tape you.",Kurt,Ross Murdock
+3,"They must have you taped,",Ross Murdock,Kurt
+3,"They believe that they have. Only they are not as smart as they believe, the major and the rest, including Millaird! No, I have a fighting chance to get out of this place, only I cannot do it alone. That is why I have been waiting for them to bring in a new guy I could get to before they had him pinned down for good. You are tough, Murdock. I saw your record, and I'm betting that you did not come here with the intention of staying. So—here is your chance to go along with one who knows the ropes. You will not have such a good one again.",Kurt,Ross Murdock
+3,"Look here, Murdock, maybe you think it's easy to break out of here. Do you know where we are, boy? We're near enough to the North Pole as makes no difference! Are you going to leg it back some hundreds of miles through thick ice and snow? A nice jaunt if you make it. I do not think that you can—not without plans and a partner who knows what he is about.",Kurt,Ross Murdock
+3,And how do we go? Steal one of those atomjets? I'm no pilot—are you?,Ross Murdock,Kurt
+3,"They have other things besides a-j's here. This place is strictly hush-hush. Even the a-j's do not set down too often for fear they will be tracked by radar. Where have you been, boy? Don't you know the Reds are circling around up here? These fellows watch for Red activity, and the Reds watch them. They play it under the table on both sides. We get our supplies overland by cats——",Kurt,Ross Murdock
+3,Cats?,Ross Murdock,Kurt
+3,"Snow sleds, like tractors,",Kurt,Ross Murdock
+3,"Our stuff is dumped miles to the south, and the cats go down once a month to bring it back. There's no trick to driving a cat, and they tear off the miles——",Kurt,Ross Murdock
+3,How many miles to the south?,Ross Murdock,Kurt
+3,"Maybe only a hundred or so, boy. But I have more than one plan, and I'm willing to risk my neck. Do you think I intend to start out blind?",Kurt,Ross Murdock
+3,"Well, what do you say, Murdock? Are you with me or not?",Kurt,Ross Murdock
+3,I'll take some time to chew it over——,Ross Murdock,Kurt
+3,"Time is what you do not have, boy. Tomorrow they will tape you. Then—no over the wall for you.",Kurt,Ross Murdock
+3,"Suppose you tell me your trick for fooling the tape,",Ross Murdock,Kurt
+3,"That I cannot do, seeing as how it lies in the way my brain is put together. Do you think I can break open my skull and hand you a piece of what is inside? No, you jump with me tonight or else I must wait to grab the next one who lands here.",Kurt,Ross Murdock
+3,Tonight....,Ross Murdock,Kurt
+3,"Yes, tonight!",Kurt,Ross Murdock
+3,"I have been preparing for a long time, but there must be two of us. We have to take turns driving the cat. There can be no rest until we are far to the south. I tell you it will be easy. There are food caches arranged along the route for emergencies. I have a map marked to show where they are. Are you coming?",Kurt,Ross Murdock
+3,"Remember Hardy? He was not the first, and he will not be the last. They use us up fast here. That is why they brought you so quickly. I tell you, it is better to take your chance with me than on a run.",Kurt,Ross Murdock
+3,And what is a run?,Ross Murdock,Kurt
+3,"So they have not yet briefed you? Well, a run is a little jaunt back into history—not nice comfortable history such as you learned out of a book when you were a little kid. No, you are dropped back into some savage time before history——",Kurt,Ross Murdock
+3,That's impossible!,Ross Murdock,Kurt
+3,"Yes? You saw those two big blond boys tonight, did you not? Why do you suppose they sport those braids? Because they are taking a little trip into the time when he-men wore braids, and carried axes big enough to crack a man open! And Hodaki and his partner.... Ever hear of the Tartars? Maybe you have not, but once they nearly overran most of Europe.",Kurt,Ross Murdock
+3,"Suppose you get sent back to a time where they do not like strangers,",Kurt,Ross Murdock
+3,Then you are in for it. That is what happened to Hardy. And it is not good—not good at all!,Kurt,Ross Murdock
+3,But why?,Ross Murdock,Kurt
+3,"That they do not tell you until just before you take your first run. I do not want to know why. But I do know that I am not going to be sent into any wilderness where a savage may run a spear through me just to prove something or other for Major John Kelgarries, or for Millaird either. I will try my plan first.",Kurt,Ross Murdock
+3,Why the dance pattern?,Ross Murdock,Kurt
+3,Would you rather be scattered in little pieces all over the landscape?,Kurt,Ross Murdock
+3,"The base doesn't need fences two miles high to keep us in, or others out; they take other precautions. You should thank fortune we got through that first mine field without blowing....",Kurt,Ross Murdock
+3,So it isn't as easy to get away as you said?,Ross Murdock,Kurt
+3,Shut up!,Kurt,Ross Murdock
+3,"Good thing these cats are atomic powered,",Kurt,Ross Murdock
+3,We'd run out of fuel otherwise.,Kurt,Ross Murdock
+3,We are out!,Kurt,Ross Murdock
+3,We have to drive turn and turn about—your turn.,Kurt,Ross Murdock
+3,"Well, I can drive a car—but this——",Ross Murdock,Kurt
+3,Is fool proof.,Kurt,Ross Murdock
+3,"The worst was getting through the mine fields, and we are out of that now. See here—",Kurt,Ross Murdock
+3,"this will keep you straight. If you can steer a car, you can steer this. Watch!",Kurt,Ross Murdock
+3,"See? You keep that light steady, and you are on course. If it begins to blink, you cast about until it steadies again. Simple enough for a baby. Take over and see.",Kurt,Ross Murdock
+3,"Your own private alarm clock, Murdock? Okay, I do not quarrel with anyone who uses his head. But you had better get some shut-eye, or we will not keep rolling.",Kurt,Ross Murdock
+3,What's the matter? Engine trouble?,Ross Murdock,Kurt
+3,No. It is just that we are to wait here——,Kurt,Ross Murdock
+3,Wait? For what? Kelgarries to come along and pick us up?,Ross Murdock,Kurt
+3,"The major? How I wish that he would arrive presently. What a surprise he would receive! Not two little mice to be put back into their cages, but the tiger cat, all claws and fangs!",Kurt,Ross Murdock
+3,Your friends late?,Ross Murdock,Kurt
+3,"Not yet, and if you now plan to play the hero, Murdock, think better of it!",Kurt,Ross Murdock
+3,This is an operation which has been most carefully planned and upon which a great deal depends. No one shall spoil it for us now——,Kurt,Ross Murdock
+3,"The Reds planted you on the project, eh?",Ross Murdock,Kurt
+3,"There is no need for me to tell you the sad tale of my life, Murdock. And you would doubtless find much of it boring. If you wish to continue to live—for a while, at least—you will remain quiet and do as you are told.",Kurt,Ross Murdock
+4,"You got off to a bad start here, Murdock.",Major John Kelgarries,Ross Murdock
+4,"You're going to have a second chance, so consider yourself lucky. We know you aren't another plant of our enemies, a fact that saves your neck. Do you have anything to add to your story?",Major John Kelgarries,Ross Murdock
+4,"No, sir.",Ross Murdock,Major John Kelgarries
+4,But you have some questions?,Major John Kelgarries,Ross Murdock
+4,A lot of them.,Ross Murdock,Major John Kelgarries
+4,Why don't you ask them?,Major John Kelgarries,Ross Murdock
+4,A wise guy doesn't spill his ignorance. He uses his eyes and ears and keeps his trap shut——,Ross Murdock,Major John Kelgarries
+4,And goes off half cocked as a result....,Major John Kelgarries,Ross Murdock
+4,I don't think you would have enjoyed the company of Kurt's paymaster.,Major John Kelgarries,Ross Murdock
+4,I didn't know about him then—not when I left here.,Ross Murdock,Major John Kelgarries
+4,"Yes, and when you discovered the truth, you took steps. Why?",Major John Kelgarries,Ross Murdock
+4,Because I don't like the line-up on his side of the fence.,Ross Murdock,Major John Kelgarries
+4,"That single fact has saved your neck this time, Murdock. Step out of line once more, and nothing will help you. But just so we won't have to worry about that, suppose you ask a few of those questions.",Major John Kelgarries,Ross Murdock
+4,How much of what Kurt fed me is the truth?,Ross Murdock,Major John Kelgarries
+4,I mean all that stuff about shooting back in time.,Ross Murdock,Major John Kelgarries
+4,All of it.,Major John Kelgarries,Ross Murdock
+4,But why—how—?,Ross Murdock,Major John Kelgarries
+4,"You have us on a spot, Murdock. Because of your little expedition, we have to tell you more now than we tell any of our men before the final briefing. Listen, and then forget all of it except what applies to the job at hand.",Major John Kelgarries,Ross Murdock
+4,"The Reds shot up Sputnik and then Muttnik.... When—? Twenty-five years ago. We got up our answers a little later. There were a couple of spectacular crashes on the moon, then that space station that didn't stay in orbit, after that—stalemate. In the past quarter century we've had no voyages into space, nothing that was prophesied. Too many bugs, too many costly failures. Finally we began to get hints of something big, bigger than any football roaming the heavens.",Major John Kelgarries,Ross Murdock
+4,Any discovery in science comes about by steps. It can be traced back through those steps by another scientist. But suppose you were confronted by a result which apparently had been produced without any preliminaries. What would be your guess concerning it?,Major John Kelgarries,Ross Murdock
+4,"Either that the steps were kept strictly secret,",Ross Murdock,Major John Kelgarries
+4,or that the result didn't rightfully belong to the man who said he discovered it.,Ross Murdock,Major John Kelgarries
+4,Suppose this discovery was vital to your life—what would you do?,Major John Kelgarries,Ross Murdock
+4,Try to find the source!,Ross Murdock,Major John Kelgarries
+4,"There you have it! Within the past five years our friends across the way have come up with three such discoveries. One we were able to trace, duplicate, and use, with a few refinements of our own. The other two remain rootless; yet they are linked with the first. We are now attempting to solve that problem, and the time grows late. For some reason, though the Reds now have their super, super gadgets, they are not yet ready to use them. Sometimes the things work, and sometimes they fail. Everything points to the fact that the Reds are now experimenting with discoveries which are not basically their own——",Major John Kelgarries,Ross Murdock
+4,Where did they get them? From another world?,Ross Murdock,Major John Kelgarries
+4,"In a way it's another world, but the world of time—not space. Seven years ago we got a man out of East Berlin. He was almost dead, but he lived long enough to record on tape some amazing data, so wild it was almost dismissed as the ravings of delirium. But that was after Sputnik, and we didn't dare disregard any hints from the other side of the Iron Curtain. So the recording was turned over to our scientists, who proved it had a core of truth.",Major John Kelgarries,Ross Murdock
+4,Time travel has been written up in fiction; it has been discussed otherwise as an impossibility. Then we discover that the Reds have it working——,Major John Kelgarries,Ross Murdock
+4,"You mean, they go into the future and bring back machines to use now.",Ross Murdock,Major John Kelgarries
+4,"Not the future, the past.",Major John Kelgarries,Ross Murdock
+4,"Look here, I know I haven't the education of your big brains, but I do know that the farther back you go into history the simpler things are. We ride in cars; only a hundred years ago men drove horses. We have guns; go back a little and you'll find them waving swords and shooting guys with bows and arrows—those that don't wear tin plate on them to stop being punctured——",Ross Murdock,Major John Kelgarries
+4,"Only they were, after all,",Ashe,Ross Murdock
+4,"Look at Agincourt, m'lad, and remember what arrows did to the French knights in armor.",Ashe,Ross Murdock
+4,Anyway,Ross Murdock,Major John Kelgarries
+4,"the farther back you go, the simpler things are. How are the Reds going to find anything in history we can't beat today?",Ross Murdock,Major John Kelgarries
+4,"That is a point which has baffled us for several years now,",Major John Kelgarries,Ross Murdock
+4,"Only it is not how they are going to find it, but where. Because somewhere in the past of this world they have contacted a civilization able to produce weapons and ideas so advanced as to baffle our experts. We have to find that source and either mine it ourselves or close it off. As yet we're still trying to find it.",Major John Kelgarries,Ross Murdock
+4,It must be a long way back. Those guys who discover tombs and dig up old cities—couldn't they give you some hints? Wouldn't a civilization like that have left something we could find today?,Ross Murdock,Major John Kelgarries
+4,"It depends,",Ashe,Ross Murdock
+4,"upon the type of civilization. The Egyptians built in stone, grandly. They used tools and weapons of copper, bronze, and stone, and they were considerate enough to operate in a dry climate which preserved relics well. The cities of the Fertile Crescent built in mud brick and used stone, copper, and bronze tools. They also chose a portion of the world where climate was a factor in keeping their memory green.",Ashe,Ross Murdock
+4,"The Greeks built in stone, wrote their books, kept their history to bequeath it to their successors, and so did the Romans. And on this side of the ocean the Incas, the Mayas, the unknown races before them, and the Aztecs of Mexico all built in stone and worked in metal. And stone and metal survive. But what if there had been an early people who used plastics and brittle alloys, who had no desire to build permanent buildings, whose tools and artifacts were meant to wear out quickly, perhaps for economic reasons? What would they leave us—considering, perhaps, that an ice age had intervened between their time and ours, with glaciers to grind into dust what little they did possess?",Ashe,Ross Murdock
+4,"There is evidence that the poles of our world have changed and that this northern region was once close to being tropical. Any catastrophe violent enough to bring about a switch in the poles of this planet might well have wiped out all traces of a civilization, no matter how superior. We have good reason to believe that such a people must have existed, but we must find them.",Ashe,Ross Murdock
+4,And Ashe is a convert from the skeptics—,Major John Kelgarries,Ross Murdock
+4,"he is an archaeologist, one of your tomb discoverers, and knows what he is talking about. We must do our hunting in time earlier than the first pyramid, earlier than the first group of farmers who settled by the Tigris River. But we have to let the enemy guide us to it. That's where you come in.",Major John Kelgarries,Ross Murdock
+4,Why me?,Ross Murdock,Major John Kelgarries
+4,"That is a question to which our psychologists are still trying to find the answer, my young friend. It seems that the majority of the people of the several nations linked together in this project have become too civilized. The reactions of most men to given sets of circumstances have become set in regular patterns and they cannot break that conditioning, or if personal danger forces them to change those patterns, they are afterward so adrift they cannot function at their highest potential. Teach a man to kill, as in war, and then you have to recondition him later.",Major John Kelgarries,Ross Murdock
+4,"But during these same wars we also develop another type. He is the born commando, the secret agent, the expendable man who lives on action. There are not many of this kind, and they are potent weapons. In peacetime that particular collection of emotions, nerve, and skills becomes a menace to the very society he has fought to preserve during a war. He is pressured by the peaceful environment into becoming a criminal or a misfit.",Major John Kelgarries,Ross Murdock
+4,"The men we send out from here to explore the past are not only given the best training we can possibly supply for them, but they are all of the type once heralded as the frontiersman. History is sentimental about that type—when he is safely dead—but the present finds him difficult to live with. Our time agents are misfits in the modern world because their inherited abilities are born out of season now. They must be young enough and possess a certain brand of intelligence to take the stiff training and to adapt, and they must pass our tests. Do you understand?",Major John Kelgarries,Ross Murdock
+4,You want crooks because they are crooks——,Ross Murdock,Major John Kelgarries
+4,"No, not because they are crooks, but because they are misfits in their time and place. Don't, I beg of you, Murdock, think that we are operating a penal institution here. You would never have been recruited if you hadn't tested out to suit us. But the man who may be labeled murderer in his own period might rank as a hero in another, an extreme example, but true. When we train a man he not only can survive in the period to which he is sent, but he can also pass as a native born in that era——",Major John Kelgarries,Ross Murdock
+4,What about Hardy?,Ross Murdock,Major John Kelgarries
+4,"There is no operation which is foolproof. We have never said that we don't run into trouble or that there is no danger in this. We have to deal with both natives of different times, and if we are lucky and hit a hot run, with the Reds. They suspect that we are casting about, hunting their trail. They managed to plant Kurt Vogel on us. He had an almost perfect cover and conditioning. Now you have it straight, Murdock. You satisfy our tests, and you'll be given a chance to say yes or no before your first run. If you say no and refuse duty, it means you must become an exile and stay here. No man who has gone through our training can return to normal life; there is too much chance of his being picked up and sweated by the opposition.",Major John Kelgarries,Ross Murdock
+4,Never?,Ross Murdock,Major John Kelgarries
+4,"This may be a long-term operation. We hope not, but there is no way of telling now. You will be in exile until we either find what we want or fail entirely. That is the last card I have to lay on the table.",Major John Kelgarries,Ross Murdock
+4,"You're slated for training tomorrow. Think it over and then let us know your answer when the time comes. Meanwhile, you are to be teamed with Ashe, who will see to putting you through the course.",Major John Kelgarries,Ross Murdock
+4,Bronze.,Ashe,Ross Murdock
+4,"Do you know, Murdock, that bronze can be tougher than steel? If it wasn't that iron is so much more plentiful and easier to work, we might never have come out of the Bronze Age? Iron is cheaper and easier found, and when the first smith learned to work it, an end came to one way of life, a beginning to another.",Ashe,Ross Murdock
+4,"Yes, bronze is important to us here, and so are the men who worked it. Smiths were sacred in the old days. We know that they made a secret of their trade which overrode the bounds of district, tribe, and race. A smith was welcome in any village, his person safe on the road. In fact, the roads themselves were under the protection of the gods; there was peace on them for all wayfarers. The land was wide then, and it was empty. The tribes were few and small, and there was plenty of room for the hunter, the farmer, the trader. Life was not such a scramble of man against man, but rather of man against nature——",Ashe,Ross Murdock
+4,No wars?,Ross Murdock,Ashe
+4,Then why the bow-and-dagger drill?,Ross Murdock,Ashe
+4,"Wars were small affairs, disputes between family clans or tribes. As for the bow, there were formidable things in the forests—giant animals, wolves, wild boars——",Ashe,Ross Murdock
+4,Cave bears?,Ross Murdock,Ashe
+4,"Get it through your head, Murdock, that history is much longer than you seem to think. Cave bears and the use of bronze weapons do not overlap. No, you will have to go back maybe several thousand years earlier and then hunt your bear with a flint-tipped spear in your hand if you are fool enough to try it.",Ashe,Ross Murdock
+4,Or take a rifle with you.,Ross Murdock,Ashe
+4,"That is just what you don't do, Murdock, not from this base, as you well know by now. You take no weapon from here which is not designed for the period in which your run lies. Just as you do not become embroiled while on that run in any action which might influence the course of history.",Ashe,Ross Murdock
+4,What would happen if someone did break that rule?,Ross Murdock,Ashe
+4,"We don't know—we just don't know. So far we have operated in the fringe territory, keeping away from any district with a history which we can trace accurately. Maybe some day—",Ashe,Ross Murdock
+4,"maybe some day we can stand and watch the rise of the pyramids, witness the march of Alexander's armies.... But not yet. We stay away from history, and we are sure that the Reds are doing the same. It has become the old problem once presented by the atom bomb. Nobody wants to upset the balance and take the consequences. Let us find their outpost and we'll withdraw our men from all the other runs at once.",Ashe,Ross Murdock
+4,"What makes everyone so sure that they have an outpost somewhere? Couldn't they be working right at the main source, sir?",Ross Murdock,Ashe
+4,"They could, but for some reason they are not. As for how we know that much, it's information received.",Ashe,Ross Murdock
+4,"No, the source is much farther back in time than their halfway post. But if we find that, then we can trail them. So we plant men in suitable eras and hope for the best. That's a good weapon you have there, Murdock. Are you willing to wear it in earnest?",Ashe,Ross Murdock
+4,Right away?,Ross Murdock,Ashe
+4,You can take your trial run any time—tomorrow.,Ashe,Ross Murdock
+4,Where—to when?,Ross Murdock,Ashe
+4,"An island which will later be Britain. When? About two thousand b.c. Beaker traders were beginning to open their stations there. This is your graduation exercise, Murdock.",Ashe,Ross Murdock
+4,"If you say I can do it, I'm willing to try.",Ross Murdock,Ashe
+5,Inland from here....,Ashe,Ross Murdock
+5,Our post?,Ross Murdock,Ashe
+5,"They weren't rushed. Or if they were, the attackers covered their trail afterward—",Ross Murdock,Ashe
+5,"Tribesmen would not have muddled a trail if they had won. No, this was no regular attack. There have been no signs of a war party coming or leaving.",Ashe,Ross Murdock
+5,Then what?,Ross Murdock,Ashe
+5,Lightning for one thing—and we'd better hope it was that. Or—,Ashe,Ross Murdock
+5,Or—?,Ross Murdock,Ashe
+5,Or we have made contact with the Reds in the wrong way!,Ashe,Ross Murdock
+5,The Reds?,Ross Murdock,Ashe
+5,It must have been. This damage was done by explosives.,Ashe,Ross Murdock
+5,Eleven—,Ashe,Ross Murdock
+5,"We have about ten days to stick it out,",Ashe,Ross Murdock
+5,and it seems we may be able to use them to better advantage than just letting you learn how it feels to walk about some four thousand years before you were born. We have to find out—if we can—what happened here and why!,Ashe,Ross Murdock
+5,Dig?,Ross Murdock,Ashe
+5,Some digging is indicated.,Ashe,Ross Murdock
+5,"They must have hit at night,",Ashe,Ross Murdock
+5,"Only at that time would they find everyone here. Men don't trust a night filled with ghosts, and our agents conform to local custom as usual. All of the post people could be erased with one bomb at night.",Ashe,Ross Murdock
+5,How long ago?,Ross Murdock,Ashe
+5,"Maybe two days. And this attack came without any warning, or Sandy would have sent a message. He had no suspicions at all; his last reports were all routine, which means that if they were on to him—and they must have been, judging by the results—he was not even aware of it.",Ashe,Ross Murdock
+5,What do we do now?,Ross Murdock,Ashe
+5,We wash—no—,Ashe,Ross Murdock
+5,"we don't! We go to Nodren's village. We are frightened, grief-stricken. We have found our kinsmen dead under strange circumstances. We ask questions of one to whom I am known as an inhabitant of this post.",Ashe,Ross Murdock
+5,"Ho, one comes to speak with Nodren—Nodren of the Hill!",Ashe,Lal
+5,Who speaks to Nodren—?,Lal,Ashe
+5,One who has hunted with him and feasted with him. The one who gave into his hand the friendship gift of the ever-sharp knife. It is Assha of the traders——,Ashe,Lal
+5,"Go far from us, man of ill luck. You who are hunted by the evil spirits.",Lal,Ashe
+5,Who speaks for Nodren yet not with the voice of Nodren?,Ashe,Lal
+5,"This is Assha who asks. We have drunk blood together and faced the white wolf and the wild boar in their fury. Nodren lets not others speak for him, for Nodren is a man and a chief!",Ashe,Lal
+5,And you are cursed!,Lal,Ashe
+5,Go and take your evil with you!,Lal,Ashe
+5,"Is it from the hand of Nodren or Nodren's young men that doom came upon those of my blood? Have war arrows passed between the place of the traders and the town of Nodren? Is that why you hide in the shadows so that I, Assha, cannot look upon the face of one who speaks boldly and throws stones?",Ashe,Lal
+5,"No war arrows between us, trader. We do not provoke the spirits of the hills. No fire comes from the sky at night to eat us up with a noise of many thunders. Lurgha speaks in such thunders; Lurgha's hand smites with such fire. You have the Wrath of Lurgha upon you, trader! Keep away from us lest Lurgha's wrath fall upon us also.",Lal,Ashe
+5,"If the Wrath of Lurgha had struck at Assha, would Assha still live to walk upon this road?",Ashe,Lal
+5,"Yet Assha walks, as you see him; Assha talks, as you hear him. It is ridiculous to answer him with the nonsense of little children——",Ashe,Lal
+5,"Spirits so walk and talk to unlucky men,",Lal,Ashe
+5,It may be the spirit of Assha who does so now—,Lal,Ashe
+5,"Ho, so it is Lal of the Quick Tongue who speaks so loudly of spirits and the Wrath of Lurgha!",Ashe,Lal
+5,"Now, Lal, since you speak for Nodren—which I believe will greatly surprise him—you will continue to tell me of this Wrath of Lurgha from the night skies and what has happened to Sanfra, who was my brother, and those others of my kin. I am Assha, and you know of the wrath of Assha and how it ate up Twist-tooth, the outlaw, when he came in with his evil men. The Wrath of Lurgha is hot, but so too is the wrath of Assha.",Ashe,Lal
+5,"Assha knows that I am as his dog. Let him not turn upon me his swift-cutting big knife, nor the arrows from his lightning bow. It was the Wrath of Lurgha which smote the place on the hill, first the thunder of his fist meeting the earth, and then the fire which he breathed upon those whom he would slay——",Lal,Ashe
+5,"And this you saw with your own eyes, Lal?",Ashe,Lal
+5,Assha knows that Lal is no chief who can stand and look upon the wonders of Lurgha's might and keep his eyes in his head. Nodren himself saw this wonder——,Lal,Ashe
+5,"And if Lurgha came in the night, when all men keep to their homes and leave the outer world to the restless spirits, how did Nodren see his coming?",Ashe,Lal
+5,"I am not a chief, Assha. How could I know in what way or for what reason Nodren saw the coming of Lurgha——?",Lal,Ashe
+5,Fool!,Cassca,Lal
+5,"Speak to Assha with a straight tongue. If he is a spirit, he will know that you do not tell him the truth. And if he has been spared by Lurgha....",Cassca,Lal
+5,"It is said that there came a message for one to witness the Wrath of Lurgha in its descent upon the outlanders so that Nodren and the men of Nodren would truly know that the traders were cursed, and should be put to the spear should they come here again——",Lal,Ashe
+5,"This message—how was it brought? Did the voice of Lurgha sound in Nodren's ear alone, or came it by the tongue of some man?",Ashe,Lal
+5,Ahee!,Lal,Ashe
+5,Lal is a fool and fears his own shadow as it skips before him on a sunny day!,Cassca,Ashe
+5,Lal is a fool and fears his own shadow as it skips before him on a sunny day!,Cassca,Lal
+5,"I greet Cassca, who is the First Sower.",Ashe,Cassca
+5,But why should Cassca hide from Assha?,Ashe,Cassca
+5,"There has been death on your hill, Assha—",Cassca,Ashe
+5,you smell of it now—Lurgha's death. Those who come from that hill may well be some who no longer walk in their bodies.,Cassca,Ashe
+5,"No spirit are you, Assha, for all know that a spirit is solid to the eye, but not to the touch. So it would seem that you were not burned up by Lurgha, after all.",Cassca,Ashe
+5,This matter of a message from Lurgha—,Ashe,Cassca
+5,"It came out of the empty air in the hearing not only of Nodren, but also of Hangor, Effar, and myself, Cassca. For we stood at that time near the Old Place....",Cassca,Ashe
+5,"It will soon be the time of sowing, and though Lurgha brings sun and rain to feed the grain, yet it is in the Great Mother that the seed lies. Upon her business only women may go into the Inner Circle.",Cassca,Ashe
+5,"But as we met to make the first sacrifice there came music out of the air such as we have never heard, voices singing like birds in a strange tongue.",Cassca,Ashe
+5,"Afterward a voice said that Lurgha was angered with the hill of the men-from-afar and that in the night he would send his Wrath against them, and that Nodren must witness this thing so that he could see what Lurgha did to those he would punish. So it was done by Nodren. And there was a sound in the air——",Cassca,Ashe
+5,What kind of a sound?,Ashe,Cassca
+5,"Nodren said it was a hum and there was the dark shadow of Lurgha's bird between him and the stars. Then came the smiting of the hill with thunder and lightning, and Nodren fled, for the Wrath of Lurgha is a fearsome thing. Now do the people come to the Great Mother's Place with many fine offerings that she may stand between them and that Wrath.",Cassca,Ashe
+5,"Assha thanks Cassca, who is the handmaiden of the Great Mother. May the sowing prosper and the reaping be good this year!",Ashe,Cassca
+5,"You go from this place, Assha?",Cassca,Ashe
+5,"For though I stand under the protecting hand of the Mother and so do not fear, yet there are others who will raise their spears against you for the honor of Lurgha.",Cassca,Ashe
+5,"We go, and again thanks be to you, Cassca.",Ashe,Cassca
+6,That bird of Lurgha's—,Ross Murdock,Ashe
+6,could it have been a plane?,Ross Murdock,Ashe
+6,"Sounds like it,",Ashe,Ross Murdock
+6,"If the Reds have done their work efficiently, and there's no reason to suppose otherwise, then there is no use in contacting either Dorhta's town or Munga's. The same announcement concerning the Wrath of Lurgha was probably made there—to their good purpose, not ours.",Ashe,Ross Murdock
+6,"Cassca didn't seem to be overly impressed with Lurgha's curse, not as much as the man was.",Ross Murdock,Ashe
+6,"She is the closest thing to a priestess that this tribe knows, and she serves a goddess older and more powerful than Lurgha—the Mother Earth, the Great Mother, goddess of fertility and growth. Nodren's people believe that unless Cassca performs her mysteries and sows part of the first field in the spring there won't be any harvest. Consequently, she is secure in her office and doesn't fear the Wrath of Lurgha too much. These people are now changing from one type of worship to another, but some of Cassca's beliefs will persist clear down to our day, taking on the coating of 'magic' and a lot of other enameling along the way.",Ashe,Ross Murdock
+6,We have to stick it out somewhere until the sub comes to pick us up. We'll need shelter.,Ashe,Ross Murdock
+6,Will the tribesmen be after us?,Ross Murdock,Ashe
+6,"They may well be. Let the right men get to talking up a holy extermination of those upon whom the Wrath of Lurgha has fallen and we could be in for plenty of trouble. Some of those men are trained hunters and trackers, and the Reds may have planted an agent to report the return of anyone to our post. Just now we're about the most important time travelers out, for we know the Reds have appeared on this line. They must have a large post here, too, or they couldn't have sent a plane on that raid. You can't build a time transport large enough to take through a considerable amount of material. Everything used by us in this age has to be assembled on this side, and the use of all machines is limited to where they can not be seen by any natives. Luckily large sections of this world are mostly wilderness and unpopulated in the areas where we operate the base posts. So if the Reds have a plane, it was put together here, and that means a big post somewhere.",Ashe,Ross Murdock
+6,Sandy and I scouted this territory pretty well last spring. There is a cave about half a mile to the west; it will shelter us for tonight.,Ashe,Ross Murdock
+6,"These sometimes hunt in pairs at this season,",Ashe,Ross Murdock
+6,Be ready with your bow—,Ashe,Ross Murdock
+6,A bad one?,Ross Murdock,Ashe
+6,See if the cave is clear. We can't do anything until we know that.,Ashe,Ross Murdock
+6,No male?,Ashe,Ross Murdock
+6,"This is a female, and she was close to whelping—",Ashe,Ross Murdock
+6,Nothing in the cave anyway. Let's see about this....,Ross Murdock,Ashe
+6,Second plate—belt—,Ashe,Ross Murdock
+6,"Let us hope that works,",Ross Murdock,Ashe
+6,Now come here where I can get my hands on you and let me see your scratch. Animal bites can be a nasty business.,Ross Murdock,Ashe
+6,"We are about five miles from the sea here. There is no way of raising our base now that Sandy's installation is gone. I'll have to lay up, since I can't risk any more loss of blood. And you're not too good in the woods—",Ashe,Ross Murdock
+6,We'll have to hunt—,Ross Murdock,Ashe
+6,"Deer,",Ashe,Ross Murdock
+6,"But the marsh at the mouth of this stream provides a better hunting ground than inland. If the wolf laired here very long, she has already frightened away any large game. It isn't the matter of food which bothers me——",Ashe,Ross Murdock
+6,"It is being tied up here,",Ross Murdock,Ashe
+6,"But look here, I'll take orders. This is your territory, and I'm green at the game. You tell me what to do, and I'll do it the best that I can.",Ross Murdock,Ashe
+6,"The first thing to do is get the wolf's hide,",Ashe,Ross Murdock
+6,"Then bury the carcass. You'd better drag it up here to work on it. If her mate is hanging around, he might try to jump you.",Ashe,Ross Murdock
+6,"Get back,",Ross Murdock,Ashe
+6,This is my job. I didn't mean to fail.,Ross Murdock,Ashe
+6,"I am a believer in the fire and the fashioned metal, the climbing sun, and the moving water.",Ross Murdock,McNeil
+6,"The fire warms by the grace of Tulden, the metal is fashioned by the mystery of the smith, the sun climbs without our aid, and who can stop the water from running?",McNeil,Ross Murdock
+6,I am of the kin of Assha. We returned to the hill——,Ross Murdock,McNeil
+6,Ashe!,McNeil,Ross Murdock
+6,"You are from the hill place, where Lurgha smote with thunder and fire?",Ross Murdock,McNeil
+6,Sanford?,Ross Murdock,McNeil
+6,"McNeil,",McNeil,Ross Murdock
+6,Where is Ashe?,McNeil,Ross Murdock
+6,What happened?,Ross Murdock,McNeil
+6,"Bomb. The Reds must have spotted us, and we didn't have a chance. We weren't expecting any trouble. I'd been down to see about a missing burden donkey and was about halfway back up the hill when she hit. When I came to I was all the way down the hill with part of the fort on top of me. The rest.... Well, you saw the place, didn't you?",McNeil,Ross Murdock
+6,What are you doing here?,Ross Murdock,McNeil
+6,"I tried to talk to Nodren, but they stoned me away. I knew that Ashe was coming through and hoped to reach him when he hit the beach, but I was too late. Then I figured he would pass here to make contact with the sub, so I was waiting it out until I saw you. Where is Ashe?",McNeil,Ross Murdock
+6,"Stay here,",Ross Murdock,McNeil
+6,I'll be back——,Ross Murdock,McNeil
+6,"But—wait! Where's Ashe, you young fool? We have to get together.",McNeil,Ross Murdock
+6,"McNeil—chap with brown hair, brown eyes, a right eyebrow which quirks up toward his hairline when he smiles?",McNeil,Ross Murdock
+6,"Brown hair and eyes, okay—and he didn't smile any.",Ross Murdock,Ashe
+6,Chip broken off a front tooth—upper right?,Ashe,Ross Murdock
+6,That's McNeil. Not that you didn't do right not to bring him here without being sure. What made you so watchful? Kurt?,Ashe,Ross Murdock
+6,And what you said about the Reds' planting someone here to wait for us.,Ross Murdock,Ashe
+6,"Never underrate them—we don't dare do that. But the man you met is McNeil, and we'd better get him here. Can you bring him?",Ashe,Ross Murdock
+6,"I think he's able to get about, in spite of that leg. From his story he's been stirring around.",Ross Murdock,Ashe
+6,Odd that Cassca didn't tell us about him. Unless she thought there was no use causing trouble by admitting they had driven him away. You going now?,Ashe,Ross Murdock
+6,Might as well. He didn't look too comfortable. And I'll bet he's hungry.,Ross Murdock,Ashe
+6,Lal of the town of Nodren.,Ross Murdock,Lal
+6,"What do you hunt here, Lal?",Ross Murdock,Lal
+6,Traders!,Lal,Ross Murdock
+7,What is this all about?,Ross Murdock,McNeil
+7,Our friend seeks to be an obedient servant of Lurgha.,McNeil,Ross Murdock
+7,The tribe is out to hunt us?,Ross Murdock,McNeil
+7,Lurgha has ordered—out of thin air again—that any traders who escaped are to be brought in and introduced to him personally at the sacrifice for the enrichment of the fields!,McNeil,Ross Murdock
+7,"We have to move fast,",Ross Murdock,McNeil
+7,Macna!,Ashe,McNeil
+7,"And Lal. But what do you here, Lal of Nodren's town?",Ashe,Lal
+7,Mischief.,Ross Murdock,Ashe
+7,He was hunting traders as a present for Lurgha.,Ross Murdock,Ashe
+7,So—,Ashe,Lal
+7,"and by whose word did you go hunting my kinsman, Lal? Was it Nodren's? Has he forgotten the blood bond between us? For it was in the name of Lurgha himself that that bond was made——",Ashe,Lal
+7,Aaaah—,Lal,Ross Murdock
+7,Aaaah—,Lal,Ross Murdock
+7,Be quiet!,Ashe,Lal
+7,"Have you yet felt the bite of my sharp knife? Has an arrow holed your skin? You are alive, and you could be dead. Show that you are glad you live and continue to breathe by telling us what you know, Lal.",Ashe,Lal
+7,"Yet,",Ashe,Lal
+7,"have you not served the Great Mother all these years, giving to her a portion of the first fruits even when the yield of your one field was small?",Ashe,Lal
+7,"Has she not dealt with you well in return, Lal? You are a poor man, that is true. But you are not gaunt of belly, even though this is the thin season when men fast before the coming of the new harvest. The Great Mother watches over her own. And it is she who has brought you to us now. For this I say to you, Lal, and I, Assha of the traders, speak with a straight tongue. The Lurgha who struck our post, who spoke to you from the air, means you no good——",Ashe,Lal
+7,Aaaah!,Lal,Ashe
+7,"So do I know, Assha. He is of the blackness and the wandering spirits of the dark!",Lal,Ashe
+7,"Just so. Thus he is no kin to the mother, for she is of the light and of good things, of the new grain, and the newborn lambs for your flocks, of the maids who wed with men and bring forth sons to lift their fathers' spears, daughters to spin by the hearth and sow the yellow grain in the furrows. Lurgha's quarrel lies with us, Lal, not with Nodren nor with you. And we take upon us that quarrel.",Ashe,Lal
+7,"Hear me, Lurgha,",Ashe,
+7,"I am Assha of the traders, and upon myself I take your hate. Not upon Lal, nor upon Nodren, nor upon the people who live in Nodren's town, shall your wrath lie. Thus do I say it!",Ashe,
+7,"You have seen how Lurgha answered me, Lal. Toward me only will his wrath be turned. Now—",Ashe,Lal
+7,"this you will give to Cassca that she may make a curtain for the Mother's home. See, it is white and so rare that the Mother will be pleased with such a fine gift. And you will tell her all that has chanced and how you believe in her powers over the powers of Lurgha, and the Mother will be well pleased with you. But you shall say nothing to the men of the village, for this quarrel is between Lurgha and Assha now and not for the meddling of others.",Ashe,Lal
+7,"This is a fine thing you give me, Assha, and the Mother will be pleased, for in many years she has not had such a curtain for her secret place. Also, I am but a little man; the quarrels of great ones are not for me. Since Lurgha has accepted your words this is none of my affair. Yet I will not go back to the village for a while—with your permission, Assha. For I am a man of loose and wagging tongue and oftentimes I speak what I do not really wish to say. So if I am asked questions, I answer. If I am not there to be asked such questions, I cannot answer.",Lal,Ashe
+7,"Well enough, Lal. Perhaps you are a wiser man than you think. But also I do not believe you should stay here.",Ashe,Lal
+7,"That do I say, too, Assha. You are now facing the Wrath of Lurgha, and with that I wish no part. Thus I shall go into the marsh for a while. There are birds and hares to hunt, and I shall work upon this fine skin so that when I take it to the Mother it shall indeed be a gift worth her smiles. Now, Assha, I would go before the night comes if it pleases you.",Lal,Ashe
+7,"Go with good fortune, Lal.",Ashe,Lal
+7,What if they pick him up?,McNeil,Ashe
+7,"I don't think they can,",Ashe,McNeil
+7,"And what would you do—keep him here? If we tried that, he'd scheme to escape and try to turn the tables on us. Now he'll keep away from Nodren's village and out of sight for the time being. Lal's not too bright in some ways, but he's a good hunter. If he has reason for hiding out, it'll take a better hunter to track him. At least we know now that the Reds are afraid they did not make a clean sweep here. What happened, McNeil?",Ashe,McNeil
+7,How did they spot the post?,Ashe,McNeil
+7,Only way I can guess is that they picked up our post signal and pinpointed the source. That means they must have been hunting us for some time.,McNeil,Ashe
+7,No strangers about lately?,Ashe,McNeil
+7,"Our cover wasn't broken that way. Sanford was a wonder. If I hadn't known better, I would have sworn he was born one of the Beaker folk. He had a network of informants running all the way from here into Brittany. Amazing how he was able to work without arousing any suspicions. I suppose his being a member of the smiths' guild was a big help. He could pick up a lot of news from any village where there was one at work. And I tell you,",McNeil,Ashe
+7,"there wasn't a whisper of trouble from here clear across the channel and pretty far to the north. We were already sure the south was clean before we ever took cover as Beakers, especially since their clans are thick in Spain.",McNeil,Ashe
+7,Their permanent base with the transport has to be somewhere within the bounds of the territory they hold in our own time.,Ashe,McNeil
+7,"They could plant it in Siberia and laugh at us,",McNeil,Ashe
+7,No hope of our getting in there——,McNeil,Ashe
+7,No.,Ashe,McNeil
+7,"Then they would be faced with the old problem of distance. If what they are exploiting lay within their modern boundaries, we would never have tumbled to the thing in the first place. What the Reds want must lie outside their twentieth century holdings, a slender point in our favor. Therefore they will plant their shift point as close to it as they can. Our transportation problem is more difficult than theirs will ever be.",Ashe,McNeil
+7,"You know why we chose the arctic for our base; it lies in a section of the world never populated by other than roving hunters. But I'll wager anything you want to name that their point is somewhere in Europe where they have people to contend with. If they are using a plane, they can't risk its being seen——",Ashe,McNeil
+7,"I don't see why not,",Ross Murdock,Ashe
+7,These people couldn't possibly know what it was—Lurgha's bird—magic—,Ross Murdock,Ashe
+7,"They must have the interference-with-history worry as much as we have. Anything of our own time has to be hidden or disguised in such a way that the native who may stumble upon it will never know it is man-made. Our sub is a whale to all appearances. Possibly their plane is a bird, but neither can bear too close an examination. We don't know what could result from a leak of real knowledge in this or any primitive time ... how it might change history——",Ashe,Ross Murdock
+7,"But,",Ross Murdock,Ashe
+7,suppose I handed Lal a gun and taught him to use it. He couldn't duplicate the weapon—the technology required lies so far beyond this age. These people couldn't reproduce such a thing.,Ross Murdock,Ashe
+7,"True enough. On the other hand, don't belittle the ingenuity of the smiths or the native intelligence of men in any era. These tribesmen might not be able to reproduce your gun, but it would set them thinking along new lines. We might find that they would think our time right out of being. No, we dare not play tricks with the past. This is the same situation we faced immediately after the discovery of the atom bomb. Everybody raced to produce that new weapon and then sat around and shivered for fear we'd be crazy enough to use it on each other.",Ashe,Ross Murdock
+7,"The Reds have made new discoveries which we have to match, or we will go under. But back in time we have to be careful, both of us, or perhaps destroy the world we do live in.",Ashe,Ross Murdock
+7,What do we do now?,McNeil,Ashe
+7,Murdock and I came here only for a trial run. It's his test. The sub is to call for us about nine days from now.,Ashe,McNeil
+7,So if we sit tight—if we can sit tight—,McNeil,Ashe
+7,they will take us out. Meanwhile we have nine days.,McNeil,Ashe
+7,"Hands and feet of the Mother, she who sows what may be reaped——",Ashe,Cassca
+7,"Outland stranger who is under the Wrath of Lurgha,",Cassca,Ashe
+7,"What do you want, outlander, that you dare to come here where no man may enter?",Cassca,Ashe
+7,That which you know. For on the night when Lurgha came you also saw——,Ashe,Cassca
+7,"How knew you that, outlander?",Cassca,Ashe
+7,"Because you serve the Mother and you are jealous for her and her service. If Lurgha is a mighty god, you wanted to see his acts with your own eyes.",Ashe,Cassca
+7,"And you know of my shame then, Assha. For Lurgha came—on a bird he came, and he did even as he said he would. So now the village will make offerings to Lurgha and beg his favor, and the Mother will no more have those to harken to her words and offer her the first fruits——",Cassca,Ashe
+7,"But from whence came this bird which was Lurgha, can you tell me that, she who waits upon the Mother?",Ashe,Cassca
+7,What difference does it make from what direction Lurgha came? That does not add nor take from his power.,Cassca,Ashe
+7,"Or does it in some strange way, Assha?",Cassca,Ashe
+7,Perhaps it does. Only tell me.,Ashe,Cassca
+7,"From that way he came, Assha. Well did I watch, knowing that I was the Mother's and that even Lurgha's thunderbolts could not eat me up. Does knowing that make Lurgha smaller in your eyes, Assha? When he has eaten up all that is yours and your kin with it?",Cassca,Ashe
+7,"Perhaps,",Ashe,Cassca
+7,I do not think Lurgha will come so again.,Ashe,Cassca
+7,"That shall be as it shall be, Assha. Now go, for it is not good that any man come hither.",Cassca,Ashe
+7,Northeast—,McNeil,Ross Murdock
+7,the Baltic lies in that quarter.,McNeil,Ross Murdock
+7,Northeast—,McNeil,Ashe
+7,the Baltic lies in that quarter.,McNeil,Ashe
+8,... and that is about all.,Ashe,Nelson Millaird
+8,"So we have the first whiff of a trail,",Nelson Millaird,Dr. Webb
+8,"So we have the first whiff of a trail,",Nelson Millaird,Major John Kelgarries
+8,"So we have the first whiff of a trail,",Nelson Millaird,Ashe
+8,A pretty strong lead!,Major John Kelgarries,Nelson Millaird
+8,The Reds wouldn't have moved against Gog if they did not consider it a menace to them. Their big base must be in this time sector!,Major John Kelgarries,Nelson Millaird
+8,"A big base,",Nelson Millaird,Major John Kelgarries
+8,"The one we are after, no. And right now they may be switching times. Do you think they will sit here and wait for us to show up in force?",Nelson Millaird,Major John Kelgarries
+8,And just how long would it take them to dismantle a big base?,Major John Kelgarries,Nelson Millaird
+8,At least a month. If we shoot a team in there in a hurry—,Major John Kelgarries,Nelson Millaird
+8,"Just where do we send that team, Kelgarries? Northeast of a coastal point in Britain is a rather vague direction, to say the least. Not,",Nelson Millaird,Major John Kelgarries
+8,"that you didn't do all you could, Ashe. And you, McNeil, nothing to add?",Nelson Millaird,McNeil
+8,"that you didn't do all you could, Ashe. And you, McNeil, nothing to add?",Nelson Millaird,Ashe
+8,"No, sir. They jumped us out of the blue when Sandy thought he had every possible line tapped, every safeguard working. I don't know how they caught on to us, unless they located our beam to this post. If so, they must have been deliberately hunting us for some time, because we only used the beam as scheduled——",Ashe,Nelson Millaird
+8,"The Reds have patience and brains and probably some more of their surprise gadgets to help them. We have the patience and the brains, but not the gadgets. And time is against us. Get anything out of this, Webb?",Nelson Millaird,Dr. Webb
+8,"Just another point to add to our surmises. I would say that they are located somewhere near the Baltic Sea. There are old trade routes there, and in our own time it is a territory closed to us. We never did know too much about that section of Europe. Their installation may be close to the Finnish border. They could disguise their modern station under half a dozen covers; that is strange country.",Dr. Webb,Nelson Millaird
+8,Won't hurt to stir up some of the present-day agents of the M.I. and the rest. They might just come up with a useful hint. So you'd say the Baltic. But that is a big slice of country.,Nelson Millaird,Dr. Webb
+8,"We have one advantage—the old trade routes. In the Beaker period they are pretty well marked. The major one into that section was established for the amber trade. The country is forested, but not so heavily as it was in an earlier period. The native tribes are mostly roving hunters, and fishermen along the coast. But they have had contact with traders.",Dr. Webb,Nelson Millaird
+8,The Reds may run into trouble themselves there at this time——,Dr. Webb,Nelson Millaird
+8,How?,Major John Kelgarries,Dr. Webb
+8,"Invasion of the ax people. If they have not yet arrived, they are due very soon. They formed one of the big waves of migratory people, who flooded the country, settled there. Eventually they became the Norse or Celtic stock. We don't know whether they stamped out the native tribes they found there or assimilated them.",Dr. Webb,Major John Kelgarries
+8,"That might be a nice point to have settled more definitely,",McNeil,Dr. Webb
+8,It could mean the difference between getting your skull split and continuing to breathe.,McNeil,Dr. Webb
+8,"I don't think they would tangle with the traders. Evidence found today suggests that the Beaker folk simply went on about their business in spite of a change in customers,",Dr. Webb,McNeil
+8,Unless they were pushed into violence.,Ashe,Dr. Webb
+8,Don't forget Lurgha's Wrath. From now on our enemies might take a very dim view of any Beaker trade posts near their property.,Ashe,Ross Murdock
+8,"A wholesale attack on Beaker establishments would constitute a shift in history. The Reds won't dare that, not just on general suspicion. Remember, they are not any more eager to tinker with history than we are. No, they will watch for us. We will have to stop communication by radio——",Dr. Webb,Ashe
+8,We can't!,Nelson Millaird,Dr. Webb
+8,"We can cut it down, but I won't send the boys out without some means of quick communication. You lab boys put your brains to work and see what you can turn out in the way of talk boxes that they can't snoop. Time!",Nelson Millaird,Ashe
+8,It all comes back to a question of time.,Nelson Millaird,Ashe
+8,"We can cut it down, but I won't send the boys out without some means of quick communication. You lab boys put your brains to work and see what you can turn out in the way of talk boxes that they can't snoop. Time!",Nelson Millaird,McNeil
+8,It all comes back to a question of time.,Nelson Millaird,McNeil
+8,"We can cut it down, but I won't send the boys out without some means of quick communication. You lab boys put your brains to work and see what you can turn out in the way of talk boxes that they can't snoop. Time!",Nelson Millaird,Ross Murdock
+8,It all comes back to a question of time.,Nelson Millaird,Ross Murdock
+8,"We can cut it down, but I won't send the boys out without some means of quick communication. You lab boys put your brains to work and see what you can turn out in the way of talk boxes that they can't snoop. Time!",Nelson Millaird,Dr. Webb
+8,It all comes back to a question of time.,Nelson Millaird,Dr. Webb
+8,"Which we do not have,",Ashe,Nelson Millaird
+8,"If the Reds are afraid they have been spotted, they must be dismantling their post right now, working around the clock. We'll never again have such a good chance to nail them. We must move now.",Ashe,Nelson Millaird
+8,"Doc,",Nelson Millaird,Dr. Webb
+8,what is your report?,Nelson Millaird,Dr. Webb
+8,"Ashe must be under treatment for at least five days. McNeil's burns aren't too bad, and Murdock's slash is almost healed.",Dr. Webb,Nelson Millaird
+8,Five days—,Nelson Millaird,Dr. Webb
+8,Personnel. We're tied down without any useful personnel. Who in processing could be switched without tangling them up entirely?,Nelson Millaird,Major John Kelgarries
+8,No one. I can recall Jansen and Van Wyke. These ax people might be a good cover for them.,Major John Kelgarries,Nelson Millaird
+8,"No, we have no proper briefing and can't get it until the tribe does appear on the map. I won't send any men in cold. Their blunders would not only endanger them but might menace the whole project.",Major John Kelgarries,Nelson Millaird
+8,"So that leaves us with you three,",Nelson Millaird,Ashe
+8,We'll recall what men we can and brief them again as fast as possible. But you know how long that will take. In the meantime——,Nelson Millaird,Ashe
+8,"So that leaves us with you three,",Nelson Millaird,McNeil
+8,We'll recall what men we can and brief them again as fast as possible. But you know how long that will take. In the meantime——,Nelson Millaird,McNeil
+8,"So that leaves us with you three,",Nelson Millaird,Ross Murdock
+8,We'll recall what men we can and brief them again as fast as possible. But you know how long that will take. In the meantime——,Nelson Millaird,Ross Murdock
+8,You can't pinpoint the region closer than just the Baltic?,Ashe,Dr. Webb
+8,"We can do this much,",Dr. Webb,Ashe
+8,We can send the sub cruising offshore there for the next five days. If there is any radio activity—any communication—we should be able to trace the beams. It all depends upon whether the Reds have any parties operating from their post. Flimsy——,Dr. Webb,Ashe
+8,But something!,Major John Kelgarries,Dr. Webb
+8,"And they will be waiting for just such a move on our part,",Dr. Webb,Ashe
+8,"All right, so they'll be watching!",Major John Kelgarries,Dr. Webb
+8,but it is about the only move we can make to back up the boys when they do go in.,Major John Kelgarries,Dr. Webb
+8,"I will work over the maps again,",Dr. Webb,Ashe
+8,"We haven't scouted that area, and we don't dare send a photo-plane over it now. Any trip in will be a stab in the dark.",Dr. Webb,Ashe
+8,"When you have only one road, you take it,",Ashe,Dr. Webb
+8,"I'll be glad to see anything you can show me, Miles.",Ashe,Dr. Webb
+8,"Base has pulled back three other teams,",McNeil,Ross Murdock
+8,"But the men have to go to school again, and they won't be ready to come on for maybe three, four weeks. To change runs means unlearning stuff as well as learning it——",McNeil,Ross Murdock
+8,What about new men?,Ross Murdock,McNeil
+8,"Don't think Kelgarries isn't out now beating the bushes for some! Only, we have to be fitted to the physical type we are supposed to represent. For instance, set a small, dark-headed pugnose among your Norse sea rovers, and he's going to be noticed—maybe remembered too well. We can't afford to take that chance. So Kelgarries had to discover men who not only look the part but are also temperamentally fitted for this job. You can't plant a fellow who thinks as a seaman—not a seaman, you understand, but one whose mind works in that pattern—among a wandering tribe of cattle herders. The protection for the man and the project lies in his being fitted into the right spot at the right time.",McNeil,Ross Murdock
+8,"We have it! This time we have the luck! The Reds slipped. Oh, how they slipped!",Major John Kelgarries,Dr. Webb
+8,"We have it! This time we have the luck! The Reds slipped. Oh, how they slipped!",Major John Kelgarries,Ashe
+8,"We have it! This time we have the luck! The Reds slipped. Oh, how they slipped!",Major John Kelgarries,McNeil
+8,"We have it! This time we have the luck! The Reds slipped. Oh, how they slipped!",Major John Kelgarries,Ross Murdock
+8,"Miracles sometimes do happen,",Dr. Webb,Major John Kelgarries
+8,I suppose the sub has a fix for us.,Dr. Webb,Major John Kelgarries
+8,"Well, it narrows it a bit,",Dr. Webb,Major John Kelgarries
+8,"I would like to hear your definition of 'narrow' sometime, Miles. Remember we have to cover this on foot, and a difference of twenty miles can mean a lot.",Ashe,Dr. Webb
+8,That mark is quite a bit in from the sea.,McNeil,Dr. Webb
+8,We don't know that country—,McNeil,Dr. Webb
+8,"I suppose we could consider this critical, condition red,",Dr. Webb,McNeil
+8,"I think we do, Miles!",Nelson Millaird,Dr. Webb
+8,"You'll parachute in. The packs with which you will be equipped are special stuff. Once you have them off sprinkle them with a powder Miles will provide and in ten minutes there won't be enough of them left for anyone to identify. We haven't but a dozen of these, and we can't throw them away except in a crisis. Find the base and rig up the detector. Your fix in this time will be easy—but it is the other end of the line we must have. Until you locate that, stick to the job. Don't communicate with us until you have it!",Nelson Millaird,Ashe
+8,"There is the possibility,",Ashe,Nelson Millaird
+8,"the Reds may have more than one intermediate post. They probably have played it smart and set up a series of them to spoil a direct trace, as each would lead only to another farther back in time——",Ashe,Nelson Millaird
+8,"All right. If that proves true, just get us the next one back,",Nelson Millaird,Ashe
+8,"From that we can trace them along if we must send in some of the boys wearing dinosaur skins later. We have to find their primary base, and if that hunt goes the hard way, well, we do it the hard way.",Nelson Millaird,Ashe
+8,How did you get the fix?,McNeil,Nelson Millaird
+8,One of their field parties ran into trouble and yelled for help.,Nelson Millaird,McNeil
+8,Did they get it?,McNeil,Nelson Millaird
+8,What do you think? You know the rules—and the ones the Reds play by are twice as tough on their own men.,Major John Kelgarries,McNeil
+8,What kind of trouble?,Ashe,Nelson Millaird
+8,"Some kind of a local religious dispute. We do our best with their code, but we're not a hundred per cent perfect in reading it. I gather they were playing with a local god and got their fingers burned.",Nelson Millaird,Ashe
+8,"Lurgha again, eh?",Ashe,Nelson Millaird
+8,"Foolish,",Dr. Webb,Ashe
+8,"That is a silly thing to do. You were almost over the edge of prudence yourself, Gordon, with that Lurgha business. To use the Great Mother was a ticklish thing to try, and you were lucky to get out of it so easily.",Dr. Webb,Ashe
+8,"Once was enough,",Ashe,Dr. Webb
+8,Though using it may have saved our lives. But I assure you I am not starting a holy war or setting up as a prophet.,Ashe,Dr. Webb
+8,Rossa—,Ashe,Ross Murdock
+8,"Here, and I have one of the donkeys.",Ashe,Ross Murdock
+8,And I the other!,McNeil,Ross Murdock
+8,"Woodsmoke,",Ashe,McNeil
+8,"Woodsmoke,",Ashe,Ross Murdock
+8,"Company,",McNeil,Ashe
+8,What kind?,Ashe,McNeil
+8,"Tribesmen, but wilder than any I've seen, even on the tapes. We are certainly out on the fringes now. These people look about cave level. I don't think they've ever heard of traders.",McNeil,Ashe
+8,How many?,Ashe,McNeil
+8,"Three, maybe four families. Most of the males must be out hunting, but there're about ten children and six or seven women. I don't think they've had good luck lately by the look of them.",McNeil,Ashe
+8,"Maybe their luck and ours are going to turn together,",Ashe,McNeil
+8,We will circle about them to the river and then try bartering later. But I do want to establish contact.,Ashe,McNeil
+8,We will circle about them to the river and then try bartering later. But I do want to establish contact.,Ashe,Ross Murdock
+9,Not to be too hopeful—,McNeil,Ross Murdock
+9,"so far, so good.",McNeil,Ross Murdock
+9,"If the Reds aren't traders,",Ross Murdock,McNeil
+9,what is their cover?,Ross Murdock,McNeil
+9,A hunting tribe—fishermen—,McNeil,Ross Murdock
+9,Where would they get the women and children?,Ross Murdock,McNeil
+9,The same way they get their men—recruit them in our own time. Or in the way lots of tribes grew during periods of stress.,McNeil,Ross Murdock
+9,"You mean, kill off the men, take over their families?",Ross Murdock,McNeil
+9,"It has been done,",McNeil,Ross Murdock
+9,"hundreds of times by invaders. In this setup—small family clans, widely scattered—that move would be very easy.",McNeil,Ross Murdock
+9,"They would have to pose as farmers, not hunters,",Ross Murdock,McNeil
+9,They couldn't move a base around with them.,Ross Murdock,McNeil
+9,"All right, so they set up a farming village. Oh, I see what you mean—there isn't any village around here. Yet they are here, maybe underground.",McNeil,Ross Murdock
+9,You found something?,Ross Murdock,Ashe
+9,"A new set of ghosts,",McNeil,Ashe
+9,Ghosts!,McNeil,Ashe
+9,"The Reds like to play the supernatural angle, don't they? First the voice of Lurgha and now ghosts. What do these ghosts do?",Ashe,McNeil
+9,"They inhabit a bit of mountainous territory southeast of here, a stretch strictly taboo for all hunters. We were following a bison track until the beast headed for the ghost country. Then Ulffa called us off in a hurry. It seems that the hunter who goes in there after his quarry never reappears, or if he does, it's in a damaged condition, blown upon by ghosts and burned to death! That's one point.",Ashe,McNeil
+9,"The second is a little more disturbing for us. A Beaker camp about twenty miles south of here, as far as I can judge, was exterminated just a week ago. The message was passed to me because I was thought to be a kinsman of the slain——",Ashe,McNeil
+9,Done because they were hunting us?,McNeil,Ashe
+9,"Might well be. On the other hand, the affair may have been just one of general precaution.",Ashe,McNeil
+9,The ghosts did it?,Ross Murdock,Ashe
+9,"I asked that. No, it seems that strange tribesmen overran it at night.",Ashe,Ross Murdock
+9,At night?,McNeil,Ashe
+9,Just so.,Ashe,McNeil
+9,"The tribes do not fight that way. Either someone slipped up in his briefing, or the Reds are overconfident and don't care about the rules. But it was the work of tribesmen, or their counterfeits. There is also a nasty rumor speeding about that the ghosts do not relish traders and that they might protest intrusions of such with penalties all around——",Ashe,McNeil
+9,"Like the Wrath of Lurgha,",Ross Murdock,Ashe
+9,"There is a certain repetition in this which suggests a lot to the suspicious mind,",Ashe,Ross Murdock
+9,"I'd say no more hunting expeditions for the present,",McNeil,Ashe
+9,It is too easy to mistake a friend for a deer and weep over his grave afterward.,McNeil,Ashe
+9,"That is a thought which entered my mind several times this afternoon,",Ashe,McNeil
+9,"These people are deceptively simple on the surface, but their minds do not work along the same patterns as ours. We try to outwit them, but it takes only one slip to make it fatal. In the meantime, I think we'd better make this place a little more snug, and it might be well to post sentries as unobtrusively as possible.",Ashe,Ross Murdock
+9,"These people are deceptively simple on the surface, but their minds do not work along the same patterns as ours. We try to outwit them, but it takes only one slip to make it fatal. In the meantime, I think we'd better make this place a little more snug, and it might be well to post sentries as unobtrusively as possible.",Ashe,McNeil
+9,How about faking some signs of a ruined camp and heading into the blue ourselves?,McNeil,Ashe
+9,"We could strike for the ghost mountains, traveling by night, and Ulffa's crowd would think we were finished off.",McNeil,Ashe
+9,An idea to keep in mind. The point against it would be the missing bodies. It seems that the tribesmen who raided the Beaker camp left some very distasteful evidence of what happened to the camp's personnel. And those we can't produce to cover our trail.,Ashe,McNeil
+9,"We might be able to fake something along that line, too——",McNeil,Ashe
+9,"We may have to fake nothing,",Ross Murdock,Ashe
+9,"We may have to fake nothing,",Ross Murdock,McNeil
+9,What is it?,Ashe,Ross Murdock
+9,That bird has never called from inland before. It is the blue one we've seen fishing for frogs along the river.,Ross Murdock,Ashe
+9,"Get your trail supplies,",Ashe,Ross Murdock
+9,"Get your trail supplies,",Ashe,McNeil
+9,Ashe?,Ross Murdock,McNeil
+9,He'll make it the other way! He's the best we have for this sort of job.,McNeil,Ross Murdock
+9,"That was a donkey,",McNeil,Ross Murdock
+9,"Come on, let's go down to that ford we discovered!",McNeil,Ross Murdock
+9,Ashe!,McNeil,Ashe
+9,Assha—,Ross Murdock,
+9,Assha—,Ross Murdock,Frigga
+10,We do not play as children here.,Ulffa Tribesman,Ross Murdock
+10,"You will answer me or else others shall ask the questions, and less gently. I say to you now—who are you and from where do you come?",Ulffa Tribesman,Ross Murdock
+10,"I am Rossa of the traders,",Ross Murdock,Ulffa Tribesman
+10,I came into this land in search of my kinsmen who were taken by raiders in the night.,Ross Murdock,Ulffa Tribesman
+10,From where did you come?,Quiet Man,Ross Murdock
+10,"I came to this land from the south,",Ross Murdock,Quiet Man
+10,"after the manner of my people. This is a new land with furs and the golden tears of the sun to be gathered and bartered. The traders move in peace, and their hands are raised against no man. Yet in the darkness there came those who would slay without profit, for what reason I have no knowing.",Ross Murdock,Quiet Man
+10,It would seem,Quiet Man,Ross Murdock
+10,"that this is indeed one Rossa, a Beaker trader.",Quiet Man,Ross Murdock
+10,You are the trader prisoner?,Ashe Double,Ross Murdock
+10,"I am Rossa, son of Gurdi, of the traders,",Ross Murdock,Ashe Double
+10,"I was a prisoner, yes. But you did not keep me one for long then, nor shall you now.",Ross Murdock,Ashe Double
+10,"You have done yourself ill, my young friend. We have a better prison here for you, one from which you shall not escape.",Ashe Double,Ross Murdock
+11,I want out,Ross Murdock,
+12,Hello.,Ross Murdock,Furry Face
+12,Ah....,Baldy,Ross Murdock
+12,What are you?,Ashe Double,Ross Murdock
+12,What do you think I am?,Ross Murdock,Ashe Double
+12,Who is here?,Ross Murdock,
+12,Food! I want to eat!,Ross Murdock,Reds Guard
+12,Who are you?,Quiet Man,Ross Murdock
+12,"Rossa, son of Gurdi. And I would eat before I make talk with you. I have not done any wrong that you should treat me as a barbarian who has stolen salt from the trading post——",Ross Murdock,Quiet Man
+12,"You are an agent,",Reds Leader,Ross Murdock
+12,"of whom you will tell us in due time. But first you shall speak of the ship, of what you found there, and why you meddled with the controls.... Wait a moment before you refuse, my young friend.",Reds Leader,Ross Murdock
+12,"Ah, I see that you know what I hold—odd knowledge for an innocent Bronze Age trader. And please have no doubts about my hesitation to use this. I shall not kill you, naturally,",Reds Leader,Ross Murdock
+12,"but there are certain wounds which supply a maximum of pain and little serious damage. Remove his parka, Kirschov.",Reds Leader,Ross Murdock
+12,Now you will tell us exactly what we wish to hear.,Reds Leader,Ross Murdock
+12,You are an agent....,Reds Leader,Ross Murdock
+12,"You came to spy under the cover of a barbarian trader,",Reds Leader,Ross Murdock
+13,Assha!,Ross Murdock,Ashe
+13,Murdock! What are you doing—?,Ashe,Ross Murdock
+13,What's going on?,McNeil,Ashe
+13,Attack.,Ashe,McNeil
+13,"But why, and by whom—don't ask me! You are a prisoner, I suppose, Murdock?",Ashe,Ross Murdock
+13,"Yes, sir.",Ross Murdock,Ashe
+13,Another digging party.,McNeil,Ashe
+13,"I don't understand,",Ross Murdock,Ashe
+13,Have you been here all the time? Are you trying to dig your way out? I don't see how you can cut out of this glacier that we're parked under——,Ross Murdock,Ashe
+13,Glacier!,Ashe,Ross Murdock
+13,"So we're inside a glacier! That explains it. Yes, we've been here—",Ashe,Ross Murdock
+13,Glacier!,Ashe,McNeil
+13,"So we're inside a glacier! That explains it. Yes, we've been here—",Ashe,McNeil
+13,On ice!,McNeil,Ashe
+13,"Glacier—ice—that's right, isn't it?",McNeil,Ashe
+13,"We're collaborating,",Ashe,Ross Murdock
+13,"Supplying our dear friends with a lot of information they already have and some flights of fancy they never dreamed about. However, they didn't know we had a few surprise packets of our own strewn about. It's amazing what the boys back at the project can pack away in a belt, or between layers of hide in a boot. So we've been engaged in some research of our own——",Ashe,Ross Murdock
+13,But I didn't have any escape gadgets.,Ross Murdock,Ashe
+13,"No,",Ashe,Ross Murdock
+13,"they are not entrusted to first-run men. You might slip up and use them at the wrong moment. However, you appear to have done fairly well....",Ashe,Ross Murdock
+13,Out!,Ashe,Ross Murdock
+13,Out!,Ashe,McNeil
+13,"I don't get all this,",McNeil,Ashe
+13,What's going on? Mutiny? Or have our boys gotten through?,McNeil,Ashe
+13,"I don't get all this,",McNeil,Ross Murdock
+13,What's going on? Mutiny? Or have our boys gotten through?,McNeil,Ross Murdock
+13,"It must be the ship people,",Ross Murdock,McNeil
+13,What ship?,Ashe,Ross Murdock
+13,The big one the Reds have been looting——,Ross Murdock,Ashe
+13,Ship?,McNeil,Ross Murdock
+13,And where did you get that rig?,McNeil,Ross Murdock
+13,"From the ship,",Ross Murdock,McNeil
+13,"But if the ship people are attacking, I don't think they will notice any difference between us and the Reds....",Ross Murdock,McNeil
+13,"Oh, fine,",McNeil,Ashe
+13,I never did care for blindman's buff.,McNeil,Ashe
+13,"Oh, fine,",McNeil,Ross Murdock
+13,I never did care for blindman's buff.,McNeil,Ross Murdock
+13,The transfer plate—,Ross Murdock,Ashe
+13,if we can reach that—,Ross Murdock,Ashe
+13,The transfer plate—,Ross Murdock,McNeil
+13,if we can reach that—,Ross Murdock,McNeil
+13,To the plate!,Ross Murdock,Ashe
+13,To the plate!,Ross Murdock,McNeil
+13,If we could have just ten minutes here——,Ashe,McNeil
+13,If we could have just ten minutes here——,Ashe,Ross Murdock
+13,"Listen, you may yearn to be the filling in an ice sandwich, but I don't! Another shock and we'll be buried so deep even a drill couldn't find us. Let's get out now. The kid is right about that—if we still can.",McNeil,Ashe
+13,... free. Get a move on!,Ross Murdock,McNeil
+13,... free. Get a move on!,Ross Murdock,Ashe
+13,That will have to do!,Ashe,McNeil
+13,We must move.,Ashe,McNeil
+13,You'd better carry these.,Ashe,McNeil
+13,"All right,",McNeil,Ashe
+13,Move!,Ashe,McNeil
+13,The plate....,Ashe,McNeil
+13,Move!,Ashe,Ross Murdock
+13,The plate....,Ashe,Ross Murdock
+13,Someone coming through?,Ross Murdock,Ashe
+13,Should be—soon.,Ashe,Ross Murdock
+13,Which way?,McNeil,Ashe
+13,They'll expect us to try for the valley pass. So we had better go up the slope there.,Ashe,McNeil
+13,"That has the look of a tough climb,",McNeil,Ashe
+13,When it becomes too tough for me,Ashe,McNeil
+13,"I shall say so, never fear.",Ashe,McNeil
+13,Now!,Ashe,McNeil
+13,Now!,Ashe,Ross Murdock
+13,Ashe?,Ross Murdock,McNeil
+13,It's not good.,McNeil,Ross Murdock
+13,"Ashe is out of his head some of the time. That hole in his shoulder is worse than we thought it was, and there's always the threat of infection. This whole wood is full of people flushed out of that blasted village! Most of them—all I've seen—are natives. But they have it firmly planted in their minds now that there are devils after them. If they see you wearing that suit——",McNeil,Ross Murdock
+13,"I know, and I'd strip if I could,",Ross Murdock,McNeil
+13,But I'll have to get other clothing first; I can't run bare in this cold.,Ross Murdock,McNeil
+13,"That might be safer,",McNeil,Ross Murdock
+13,"I don't know just what happened back there, but it certainly must have been plenty!",McNeil,Ross Murdock
+13,"You said Ashe is out of his head. What do we do for him, and what are your plans?",Ross Murdock,McNeil
+13,"We have to reach the river, somehow. It drains to the sea, and at its mouth we are supposed to make contact with the sub.",McNeil,Ross Murdock
+14,... that's my half of it. The rest of it you know.,Ross Murdock,Ashe
+14,"So the crackpots were right, after all. They only had their times mixed.",Ashe,Ross Murdock
+14,I don't understand——,Ross Murdock,Ashe
+14,"Flying saucers,",Ashe,Ross Murdock
+14,"It was a wild possibility, but it was on the books from the start. This certainly will make Kelgarries turn red——",Ashe,Ross Murdock
+14,Flying saucers?,Ross Murdock,Ashe
+14,"That globe-ship was never built on this world. Use your head, Murdock. Think about your furry-faced friend and the baldy with him. Did either look like normal Terrans to you?",Ashe,Ross Murdock
+14,But—a spaceship!,Ross Murdock,Ashe
+14,This was insinuated once,Ashe,Ross Murdock
+14,"along with a lot of other bright ideas, by a gentleman named Charles Fort, who took a lot of pleasure in pricking what he considered to be vastly over-inflated scientific pomposity. He gathered together four book loads of reported incidents of unexplainable happenings which he dared the scientists of his day to explain. And one of his bright suggestions was that such phenomena as the vast artificial earthworks found in Ohio and Indiana were originally thrown up by space castaways to serve as S O S signals. An intriguing idea, and now perhaps we may prove it true.",Ashe,Ross Murdock
+14,"But if such spaceships were wrecked on this world, I still don't see why we didn't find traces of them in our own time.",Ross Murdock,Ashe
+14,"Because that wreck you explored was bedded in a glacial era. Do you have any idea how long ago that was, counting from our own time? There were at least three glacial periods—and we don't know in which one the Reds went visiting. That age began about a million years before we were born, and the last of the ice ebbed out of New York State some thirty-eight thousand years ago, boy. That was the early Stone Age, reckoning it by the scale of human development, with an extremely thin population of the first real types of man clinging to a few warmer fringes of wilderness.",Ashe,Ross Murdock
+14,"Climatic changes, geographical changes, all altered the face of our continents. There was a sea in Kansas; England was part of Europe. So, even though as many as fifty such ships were lost here, they could all have been ground to bits by the ice flow, buried miles deep in quakes, or rusted away generations before the first really intelligent man arrived to wonder at them. Certainly there couldn't be too many such wrecks to be found. What do you think this planet was, a flypaper to attract them?",Ashe,Ross Murdock
+14,"But if ships crashed here once, why didn't they later when men were better able to understand them?",Ross Murdock,Ashe
+14,"For several reasons—all of them possible and able to be fitted into the fabric of history as we know it on this world. Civilizations rise, exist, and fall, each taking with it into the limbo of forgotten things some of the discoveries which made it great. How did the Indian civilizations of the New World learn to harden gold into a useable point for a cutting weapon? What was the secret of building possessed by the ancient Egyptians? Today you will find plenty of men to argue these problems and half a hundred others.",Ashe,Ross Murdock
+14,"The Egyptians once had a well-traveled trade route to India. Bronze Age traders opened up roads down into Africa. The Romans knew China. Then came an end to each of these empires, and those trade routes were forgotten. To our European ancestors of the Middle Ages, China was almost a legend, and the fact that the Egyptians had successfully sailed around the Cape of Good Hope was unknown. Suppose our space voyagers represented some star-born confederacy or empire which lived, rose to its highest point, and fell again into planet-bound barbarism all before the first of our species painted pictures on a cave wall?",Ashe,Ross Murdock
+14,"Or take it that this world was an unlucky reef on which too many ships and cargoes were lost, so that our whole solar system was posted, and skippers of star ships thereafter avoided it? Or they might even have had some rule that when a planet developed a primitive race of its own, it was to be left strictly alone until it discovered space flight for itself.",Ashe,Ross Murdock
+14,Yes.,Ross Murdock,Ashe
+14,But how did the Reds locate that ship?,Ross Murdock,Ashe
+14,"Unless that information is on the tapes we were able to bring along, we shall probably never know,",Ashe,Ross Murdock
+14,"I might make one guess—the Reds have been making an all-out effort for the past hundred years to open up Siberia. In some sections of that huge country there have been great climatic changes almost overnight in the far past. Mammoths have been discovered frozen in the ice with half-digested tropical plants in their stomach. It's as if the beasts were given some deep-freeze treatment instantaneously. If in their excavations the Reds came across the remains of a spaceship, remains well enough preserved for them to realize what they had discovered, they might start questing back in time to find a better one intact at an earlier date. That theory fits everything we know now.",Ashe,Ross Murdock
+14,But why would the aliens attack the Reds now?,Ross Murdock,Ashe
+14,No ship's officers ever thought gently of pirates.,Ashe,Ross Murdock
+14,How goes it?,McNeil,Ashe
+14,How goes it?,McNeil,Ross Murdock
+14,"Reasonably well,",Ashe,McNeil
+14,How far are we from the river? And do we have company?,Ashe,McNeil
+14,About five miles—if we had wings.,McNeil,Ashe
+14,"And we have company all right, lots of it!",McNeil,Ashe
+14,What kind?,Ashe,McNeil
+14,Not from the village.,McNeil,Ashe
+14,Something's happening on this side of the mountains. It looks as if there's a mass migration in progress. I counted five family clans on their way west—all in just this one morning.,McNeil,Ashe
+14,"The village refugees' stories about devils might send them packing,",Ashe,McNeil
+14,Maybe.,McNeil,Ashe
+14,"The sooner we head downstream, the better. And I hope the boys will have that sub waiting where they promised. We do possess one thing in our favor—the spring floods are subsiding.",McNeil,Ashe
+14,And the high water should have plenty of raft material.,Ashe,McNeil
+14,We'll make those five miles tomorrow.,Ashe,McNeil
+14,"Five miles in this country,",McNeil,Ashe
+14,is a pretty good day's march,McNeil,Ashe
+14,for a well man.,McNeil,Ashe
+14,"I will make it,",Ashe,McNeil
+14,"They've been badly mauled,",McNeil,Ashe
+14,"They've been badly mauled,",McNeil,Ross Murdock
+14,Pressure—they are on the run.,Ashe,McNeil
+14,These are not from the village. Notice the dress and the red paint on their faces. They're not like Ulffa's kin either. I wouldn't say they were local at all.,Ashe,McNeil
+14,"Reminds me of something I saw once—animals running before a forest fire. They can't all be looking for new hunting territory,",McNeil,Ashe
+14,"Reds sweeping them out,",Ross Murdock,Ashe
+14,Or could the ship people—?,Ross Murdock,Ashe
+14,"Reds sweeping them out,",Ross Murdock,McNeil
+14,Or could the ship people—?,Ross Murdock,McNeil
+14,I wonder....,Ashe,Ross Murdock
+14,The ax people!,Ashe,Ross Murdock
+14,I wonder....,Ashe,McNeil
+14,The ax people!,Ashe,McNeil
+14,Ax people?,Ross Murdock,Ashe
+14,"Invasion of another people from the east. They turned up in prehistory about this period. Remember, Webb spoke of them. They used axes for weapons and tamed horses.",Ashe,Ross Murdock
+14,Tartars,McNeil,Ashe
+14,This far west?,McNeil,Ashe
+14,"Not Tartars, no. You needn't expect those to come boiling out of middle Asia for some thousands of years yet. We don't know too much about the ax people, save that they moved west from the interior plains. Eventually they crossed to Britain; perhaps they were the ancestors of the Celts who loved horses too. But in their time they were a tidal wave.",Ashe,McNeil
+14,"The sooner we head downstream, the better.",McNeil,Ashe
+14,Camp?,McNeil,Ashe
+14,Camp?,McNeil,Ross Murdock
+14,"Must be,",Ashe,McNeil
+14,Those who built that blaze are in such numbers that they don't have to take precautions.,Ashe,McNeil
+14,Will they be here by tomorrow?,McNeil,Ashe
+14,"Their scouts might, but this is early spring, and forage can't have been too good on the march. If I were the chief of that tribe, I'd turn aside into the meadow land we skirted yesterday and let the herds graze for a day, maybe more. On the other hand, if they need water——",Ashe,McNeil
+14,They will come straight ahead!,McNeil,Ashe
+14,And we can't be here when they arrive.,McNeil,Ashe
+14,Get closer to shore!,Ross Murdock,Ashe
+14,Get closer to shore!,Ross Murdock,McNeil
+15,Friend?,Ross Murdock,Braided Stranger One
+15,Friend?,Ross Murdock,Braided Stranger Two
+15,You strike—this one dies.,Ross Murdock,Braided Stranger One
+15,You strike—this one dies.,Ross Murdock,Braided Stranger Two
+15,Take—,Ross Murdock,Braided Stranger One
+15,take and go!,Ross Murdock,Braided Stranger One
+15,Take—,Ross Murdock,Braided Stranger Two
+15,take and go!,Ross Murdock,Braided Stranger Two
+15,What you do?,Tulka,Ross Murdock
+15,You go—,Ross Murdock,Tulka
+15,I go—,Ross Murdock,Tulka
+15,I take these,Ross Murdock,Tulka
+15,Not good....,Tulka,Ross Murdock
+15,"Not good you,",Ross Murdock,Tulka
+15,good—me!,Ross Murdock,Tulka
+15,You—hunter?,Tulka,Ross Murdock
+15,"Trader, me.",Ross Murdock,Tulka
+15,"Trader,",Tulka,Ross Murdock
+15,Trade—this?,Tulka,Ross Murdock
+15,That. More things.,Ross Murdock,Tulka
+15,Where?,Tulka,Ross Murdock
+15,By bitter water—trade there.,Ross Murdock,Tulka
+15,Why you here?,Tulka,Ross Murdock
+15,"Ride river water, like you ride,",Ross Murdock,Tulka
+15,Ride on trees—many trees tied together. Trees break apart—I come here.,Ross Murdock,Tulka
+15,"You come camp—Foscar. Foscar chief. He like you show trick how you take Tulka, make him sleep—hold his ax, knife.",Tulka,Ross Murdock
+15,I go to bitter water. My chief there.,Ross Murdock,Tulka
+15,You speak crooked words—your chief there!,Tulka,Ross Murdock
+15,Your chief speak Foscar. Say he give much these—,Tulka,Ross Murdock
+15,"good knives, axes—get you back.",Tulka,Ross Murdock
+15,How you know my chief?,Ross Murdock,Tulka
+15,You wear shining skin—your chief wear shiny skin. He say find other shiny skin—give many good things to man who bring you back.,Tulka,Ross Murdock
+15,You will come!,Tulka,Ross Murdock
+15,"Look well, Foscar. Free me, and I would do more than look at you,",Ross Murdock,Foscar
+15,So—yet still my hands are tied.,Ross Murdock,Foscar
+15,Child—,Foscar,Ross Murdock
+15,Child?,Ross Murdock,Foscar
+15,"Ask Tulka. I be no child, Foscar. Tulka's ax, Tulka's knife—they were in my hand. A horse Tulka had to use to bring me down.",Ross Murdock,Foscar
+15,"Sharp tongue,",Foscar,Ross Murdock
+15,"Tulka lost knife—ax? So! Ennar,",Foscar,Ross Murdock
+15,Child!,Foscar,Ross Murdock
+15,Child!,Foscar,Ennar
+15,"You take from Ennar ax, knife,",Foscar,Ross Murdock
+15,as you took from Tulka.,Foscar,Ross Murdock
+15,"Take—ax, knife—",Foscar,Ross Murdock
+16,Ho—taker of axes!,Ennar,Ross Murdock
+16,Ho—warrior!,Ross Murdock,Ennar
+16,To clip a sharp tongue is a good thing!,Ennar,Ross Murdock
+16,Up!,Ennar,Ross Murdock
+16,Your chief—he give many good things for you. Foscar take you to him.,Ennar,Ross Murdock
+16,"My chief is not here,",Ross Murdock,Ennar
+16,My chief sits by the bitter water and waits. He will be angry if I do not come. Let Foscar fear his anger——,Ross Murdock,Ennar
+16,You run from your chief. He will be happy with Foscar when you lie again under his hand. You will not like that—I think it so!,Ennar,Ross Murdock
+16,"I think so, too,",Ross Murdock,Ennar
+16,How find other chief?,Ross Murdock,Ennar
+16,Your chief come our camp. Talk with Foscar—two—four sleeps ago.,Ennar,Ross Murdock
+16,How talk with Foscar? With hunter talk?,Ross Murdock,Ennar
+16,"He talk—Foscar, us. We hear right words—not woods creeper talk. He speak to us good.",Ennar,Ross Murdock
+16,This chief—he look like me?,Ross Murdock,Ennar
+16,He wear covering like you.,Ennar,Ross Murdock
+16,But was he like me?,Ross Murdock,Ennar
+16,Not like!,Tulka,Ross Murdock
+16,"You look like hunter people—hair, eyes—Strange chief no hair on head, eyes not like——",Tulka,Ross Murdock
+16,You saw him too?,Ross Murdock,Tulka
+16,"I saw. I ride to camp—they come so. Stand on rock, call to Foscar. Make magic with fire—it jump up!",Tulka,Ross Murdock
+16,"They point little, little spear—fire come out of the ground and burn. They say burn our camp if we do not give them man. We say—not have man. Then they say many good things for us if we find and bring man——",Tulka,Ross Murdock
+16,"But they are not my people,",Ross Murdock,Tulka
+16,"You see, I have hair, I am not like them. They are bad——",Ross Murdock,Tulka
+16,You may be taken in war by them—chief's slave.,Ennar,Ross Murdock
+16,They want slave back—it is so.,Ennar,Ross Murdock
+16,"My people strong too, much magic,",Ross Murdock,Ennar
+16,Take me to bitter water and they pay much—more than stranger chief!,Ross Murdock,Ennar
+16,Where bitter water?,Tulka,Ross Murdock
+16,Some sleeps away——,Ross Murdock,Tulka
+16,Some sleeps!,Ennar,Ross Murdock
+16,"We ride some sleeps, maybe many sleeps where we know not the trails—maybe no people there, maybe no bitter water—all things you say with split tongue so that we not give you back to master. We go this way not even one sleep—find chief, get good things. Why we do hard thing when we can do easy?",Ennar,Ross Murdock
+16,We go. Your chief waits—,Foscar,Ross Murdock
+16,Not my chief!,Ross Murdock,Foscar
+16,He say so. He give good things to get you back under his hand. So—he your chief!,Foscar,Ross Murdock
+16,"Woods rat, Foscar goes to his burial fire. And he shall take a slave with him to serve him beyond the sky—a slave to run at his voice, to shake when he thunders. Slave-dog, you shall run for Foscar beyond the sky, and he shall have you forever to walk upon as a man walks upon the earth. I, Ennar, swear that Foscar shall be sent to the chiefs in the sky in all honor. And that you, dog-one, shall lie at his feet in that going!",Ennar,Ross Murdock
+17,"You sleep—you do not fear, Foscar's dog-one?",Ennar,Ross Murdock
+17,I do not fear!,Ross Murdock,Ennar
+17,We shall see if you speak so loudly when the fire bites you!,Ennar,Ross Murdock
+17,Ahhhhhhh!,Ross Murdock,
+17,A siege!,Ross Murdock,
+17,I might be ready for a siege....,Ross Murdock,
+18,Come and get me!,Ross Murdock,
+18,Come and get me!,Ross Murdock,
+18,Yahhhh—,Ross Murdock,
+18,I am here!,Ross Murdock,
+18,Come out—face me!,Ross Murdock,
+18,Murrrrdock!,Alien,Ross Murdock
+18,Murrrrdock!,Alien,Ross Murdock
+18,Murdock!,Major John Kelgarries,Ross Murdock
+18,Murdock!,McNeil,Ross Murdock
+18,Got—to—get—this—off—,Ross Murdock,Major John Kelgarries
+18,They can trace this and follow us—,Ross Murdock,Major John Kelgarries
+18,"He needs a shot,",Medic,Major John Kelgarries
+18,You left the suit—back there?,Ross Murdock,Major John Kelgarries
+18,We did. What's this about them tracing you by it? Who was tracing you?,Major John Kelgarries,Ross Murdock
+18,Men from the space ship. That's the only way they could have trailed me down the river.,Ross Murdock,Major John Kelgarries
+18,"So that's how you got those burns,",Major John Kelgarries,Ross Murdock
+18,Deliberately searing your hand in the fire to break their hold—,Major John Kelgarries,Ross Murdock
+18,"Put him to sleep,",Major John Kelgarries,Medic
+18,"He deserves about a month of it, I should judge. I think he has brought us a bigger slice of the future than we had hoped for....",Major John Kelgarries,Medic
+18,Visitors welcome?,Ashe,Ross Murdock
+18,"Ashe, tell me what happened. Are we back at the main base? What about the Reds? We weren't traced by the ship people, were we?",Ross Murdock,Ashe
+18,"Did Doc just wind you up to let you spin, Ross? Yes, this is home, sweet home. As for the rest—well, it is a long story, and we are still picking up pieces of it here and there.",Ashe,Ross Murdock
+18,Can you tell me what is known?,Ross Murdock,Ashe
+18,"You have been a surprise package, Murdock.",Ashe,Ross Murdock
+18,"Rather a busy lad, weren't you, after you were bumped off into that river?",Ashe,Ross Murdock
+18,You heard all about that!,Ross Murdock,Ashe
+18,What happened to you—and to the project—and——,Ross Murdock,Ashe
+18,"One thing at a time, and don't rush your fences.",Ashe,Ross Murdock
+18,"We made it down the river—how, don't ask me. That was something of a 'project' in itself,",Ashe,Ross Murdock
+18,"The raft came apart piece by piece, and we waded most of the last couple of miles, I think. I'm none too clear on the details; you'll have to get those out of McNeil, who was still among those present then. Other than that, we cannot compete with your adventures. We built a signal fire and sat by it toasting our shins for a few days, until the sub came to collect us——",Ashe,Ross Murdock
+18,And took you off.,Ross Murdock,Ashe
+18,"And took us off. But Kelgarries agreed to spin out our waiting period for another twenty-four hours, in case you did manage to survive that toss you took into the river. Then we sighted your spectacular display of fireworks on the beach, and the rest was easy.",Ashe,Ross Murdock
+18,The ship people didn't trace us back to post?,Ross Murdock,Ashe
+18,"Not that we know of. Anyway, we've closed down the post on that time level. You might be interested in a very peculiar tale our modern agents have picked up, floating over and under the iron curtain. A blast went off in the Baltic region of this time, wiping some installation clean off the map. The Reds have kept quiet as to the nature of the explosion and the exact place where it occurred.",Ashe,Ross Murdock
+18,The aliens followed them all the way up to this time!,Ross Murdock,Ashe
+18,But why? And why did they trail me?,Ross Murdock,Ashe
+18,That we can only guess. But I don't believe that they were moved by any private vengeance for the looting of their derelict. There is some more imperative reason why they don't want us to find or use anything from one of their cargoes——,Ashe,Ross Murdock
+18,But they were in power thousands of years ago. Maybe they and their worlds are gone now. Why should things we do today matter to them?,Ross Murdock,Ashe
+18,"Well, it does matter, and in some very important way. And we have to learn that reason.",Ashe,Ross Murdock
+18,How?,Ross Murdock,Ashe
+18,"By doing some looting of our own,",Ashe,Ross Murdock
+18,"Those tapes we brought back are going to be a big help. More than one derelict was located. We were right in our surmise that the Reds first discovered the remains of one in Siberia, but it was in no condition to be explored. They already had the basic idea of the time traveler, so they applied it to the hunting down of other ships, with several way stops to throw people like us off the scent. So they found an intact ship, and also several others. At least three are on this side of the Atlantic where they couldn't get at them very well. Those we can deal with now——",Ashe,Ross Murdock
+18,Won't the aliens be waiting for us to try that?,Ross Murdock,Ashe
+18,"As far as we can discover they don't know where any of these ships crashed. Either there were no survivors, or passengers and crew took off in lifeboats while they were still in space. They might never have known of the Reds' activities if you hadn't triggered that communicator on the derelict.",Ashe,Ross Murdock
+18,I didn't mean to.,Ross Murdock,Ashe
+18,"Seeing as how your action also put a very effective spike in the opposition's wheel, you are freely forgiven. Anyway, you have also provided us with a pretty good idea of what we may be up against with the aliens, and we'll be prepared for that next time.",Ashe,Ross Murdock
+18,Then there will be a next time?,Ross Murdock,Ashe
+18,"We are calling in all time agents, concentrating our forces in the right period. Yes, there will be a next time. We have to learn just what they are trying so hard to protect.",Ashe,Ross Murdock
+18,What do you think it is?,Ross Murdock,Ashe
+18,Space!,Ashe,Ross Murdock
+18,Space?,Ross Murdock,Ashe
+18,"That ship you explored was a derelict from a galactic fleet, but it was a ship and it used the principle of space flight. Do you understand now? In these lost ships lies the secret which will make us free of all the stars! We must claim it.",Ashe,Ross Murdock
+18,Can we——?,Ross Murdock,Ashe
+18,Can we?,Ashe,Ross Murdock
+18,Then you still want to be counted in on this game?,Ashe,Ross Murdock
+18,Yes.,Ross Murdock,Ashe
