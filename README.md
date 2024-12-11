@@ -40,8 +40,6 @@ Feel free to use this data in your projects or analyses. Attribution to this rep
 
 All novels included in this repository are in the public domain. The texts were sourced from [Project Gutenberg](https://www.gutenberg.org), a free resource for public domain texts.
 
-The datasets and code in this repository are licensed under the [MIT License](LICENSE).
-
 ## 🙌 Contributions
 
 Contributions, suggestions, and bug reports are welcome! If you notice any inconsistencies in the datasets or would like to add more novels, feel free to open an issue or submit a pull request.
