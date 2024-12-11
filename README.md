@@ -1,12 +1,12 @@
-# Character Dialogue in Public Domain Novels
+# Character Dialogue in Public Domain Novels - Two Detective Novels and Two Science Fiction Novels
 
-This repository contains structured CSV datasets of character dialogue exchanges from four classic public domain novels. Each CSV includes all dialogue lines, along with information about the **speaker**, **receiver**, and the **chapter** where the dialogue occurs.
+This repository contains structured CSV datasets of character dialogue exchanges from four classic public domain novels. Each CSV includes all dialogue lines, along with information about the **speaker**, **receiver**, and the **chapter** where the dialogue occurs. These datasets were manually annotated with every effort made to ensure accuracy. However, in some cases, the receiver was inferred based on contextual descriptions, which introduces a degree of subjectivity to certain annotations. The receiver field is left blank in instances where the text indicates that the speaker is either talking to themselves or speaking in a way that others cannot hear them. Additionally, some dialogue lines are directed to multiple receivers. In such cases, the line is repeated in the dataset for each receiver to accurately represent relationship strength.
 
 ## 📚 Included Novels
 
 The datasets cover the following novels, all sourced from [Project Gutenberg](https://www.gutenberg.org):
 
-1. **A Study in Scarlet** by Arthur Conan Doyle  
+1. **A Study in Scarlet** by Arthur Conan Doyle 
 2. **The Mysterious Affair at Styles** by Agatha Christie  
 3. **The Stainless Steel Rat** by Harry Harrison  
 4. **The Time Traders** by Andre Norton  
@@ -18,7 +18,7 @@ Each CSV file is organised with the following columns:
 - `chapter`: The chapter number where the dialogue occurs.  
 - `dialogue`: The text of the dialogue line.  
 - `speaker`: The character delivering the dialogue.  
-- `receiver`: The character or group receiving the dialogue (if identifiable) -- sometimes one dialogue line is directed to multiple receivers, in which case it is repeated in the dataset to represent relationship strength.  
+- `receiver`: The character or group receiving the dialogue (if identifiable). 
 
 ### Example Row
 | chapter | dialogue                          | speaker         | receiver       |
