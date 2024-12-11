@@ -1,4 +1,4 @@
-# Character Dialogue in Public Domain Novels - Two Detective Novels and Two Science Fiction Novels
+# Character Dialogue in Public Domain Novels
 
 This repository contains structured CSV datasets of character dialogue exchanges from four classic public domain novels. Each CSV includes all dialogue lines, along with information about the **speaker**, **receiver**, and the **chapter** where the dialogue occurs. These datasets were manually annotated with every effort made to ensure accuracy. However, in some cases, the receiver was inferred based on contextual descriptions, which introduces a degree of subjectivity to certain annotations. The receiver field is left blank in instances where the text indicates that the speaker is either talking to themselves or speaking in a way that others cannot hear them. Additionally, some dialogue lines are directed to multiple receivers. In such cases, the line is repeated in the dataset for each receiver to accurately represent relationship strength.
 
