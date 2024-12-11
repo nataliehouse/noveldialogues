@@ -47,4 +47,4 @@ Contributions, suggestions, and bug reports are welcome! If you notice any incon
 ## 🔗 Acknowledgements
 
 - Texts sourced from [Project Gutenberg](https://www.gutenberg.org).  
-- Datasets compiled by Natalie House (nvhouse).
+- Datasets compiled by Natalie House.
